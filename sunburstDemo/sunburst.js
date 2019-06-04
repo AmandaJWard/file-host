@@ -5,7 +5,7 @@ var radius = Math.min(width, height) / 2;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = {
-  w: 200, h: 30, s: 3, t: 10
+  w: 75, h: 30, s: 3, t: 10
 };
 
 // Mapping of step names to colors.
@@ -149,14 +149,19 @@ function initializeBreadcrumbTrail() {
     .attr("id", "endlabel")
     .style("fill", "#000");
 }
+var widths = [];
 
 // Generate a string that describes the points of a breadcrumb polygon.
 function breadcrumbPoints(d, i) {
   var points = [];
+  widths[i] = d.data.name.length*8;
+  if (widths[i] <75) {
+    widths[i] = b.w;
+  }
   points.push("0,0");
-  points.push(b.w + ",0");
-  points.push(b.w + b.t + "," + (b.h / 2));
-  points.push(b.w + "," + b.h);
+  points.push(widths[i]+ ",0");
+  points.push(widths[i] + b.t + "," + (b.h / 2));
+  points.push(widths[i] + "," + b.h);
   points.push("0," + b.h);
   if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
     points.push(b.t + "," + (b.h / 2));
@@ -183,7 +188,7 @@ function updateBreadcrumbs(nodeArray, percentageString) {
       .style("fill", function(d) { return colors[d.data.name]; });
 
   entering.append("svg:text")
-      .attr("x", (b.w + b.t) / 2)
+      .attr("x", function(d,i) { return (widths[i] + b.t) / 2; } )
       .attr("y", b.h / 2)
       .attr("dy", "0.35em")
       .attr("text-anchor", "middle")
@@ -191,12 +196,20 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
   // Merge enter and update selections; set position for all nodes.
   entering.merge(trail).attr("transform", function(d, i) {
-    return "translate(" + i * (b.w + b.s) + ", 0)";
+    var sum = 0;
+    for (var j = 0; j < i; j++) {
+	    sum += widths[j];
+    }
+    return "translate(" + (sum + b.s) + ", 0)";
   });
 
   // Now move and update the percentage at the end.
+    var sum = 0;
+    for (var j = 0; j < nodeArray.length; j++) {
+    sum += widths[j];
+    }
   d3.select("#trail").select("#endlabel")
-      .attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
+      .attr("x", (sum + b.s + 35))
       .attr("y", b.h / 2)
       .attr("dy", "0.35em")
       .attr("text-anchor", "middle")
