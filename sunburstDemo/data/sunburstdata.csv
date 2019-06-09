@@ -1,12 +1,4 @@
-﻿Service Accessibility-Application Response Time (s)-HTTP Requests,9086.095238
-Service Accessibility-Application Response Time (s)-HTTP Responses With Response Time Threshold Violation,9086.095238
-Service Accessibility-Application Response Time (s)-HTTP Responses Per Delay,9086.095238
-Service Accessibility-Application Response Time (s)-Users HTTP Responses Per Delay,9086.095238
-Service Accessibility-Application Response Time (s)-Users HTTP Responses,9086.095238
-Service Accessibility-Application Response Time (s)-HTTP Responses,9086.095238
-Service Accessibility-Application Response Time (s)-Users HTTP Requests,9086.095238
-Service Accessibility-Application Response Time (s)-Users HTTP Response Time Threshold Violation,9086.095238
-Integrity-Audio MOS Down (#)-Sessions Per Audio Mos Class,7155.3
+﻿Integrity-Audio MOS Down (#)-Sessions Per Audio Mos Class,7155.3
 Integrity-Audio MOS Down (#)-Users Per Audio Mos Class,7155.3
 Integrity-Audio MOS Down (#)-Users Data Sessions,7155.3
 Integrity-Audio MOS Down (#)-Data Sessions,7155.3
@@ -40,40 +32,10 @@ Integrity-Jitter UL (ms)-Users Tcp Packets Transmitted Ul,7155.3
 Integrity-Jitter UL (ms)-Average Jitter Ul Threshold Violation,7155.3
 Integrity-Jitter UL (ms)-Users Packet Jitter Ul,7155.3
 Integrity-Jitter UL (ms)-Users Average Jitter Ul Threshold Violation,7155.3
-Retainability-Stall count (#)-Stalling Events,22016.30769
-Retainability-Stall count (#)-Users Successful HTTP Responses,22016.30769
-Retainability-Stall count (#)-Users Stalling Events,22016.30769
-Retainability-Stall count (#)-Users Succesful HTTP Responses,22016.30769
-Retainability-Stall Time (s)-Stalling Events Per Stall Time,22016.30769
-Retainability-Stall Time (s)-Average Stall Time Threshold Violation,22016.30769
-Retainability-Stall Time (s)-Users Stalling Events Per Stall Time,22016.30769
-Retainability-Stall Time (s)-Users Average Stall Time Threshold Violation,22016.30769
-Retainability-Stall Time (s)-Users Stalling Events,22016.30769
-Service Accessibility-Time to Start (s)-HTTP Responses With Time To Start Threshold Violation,9086.095238
-Service Accessibility-Time to Start (s)-Users HTTP Responses With Time To Start Threshold Violation,9086.095238
-Service Accessibility-Time to Start (s)-Users Successful HTTP Responses,9086.095238
-Service Accessibility-Time to Start (s)-HTTP Responses Per Time To Start,9086.095238
-Service Accessibility-Time to Start (s)-Users HTTP Responses Per Time To Start,9086.095238
-Service Accessibility-Time to Start (s)-Successful HTTP Responses,9086.095238
 Integrity-Video MOS DL (#)-Sessions Per Video Mos Class,7155.3
 Integrity-Video MOS DL (#)-Users Data Sessions,7155.3
 Integrity-Video MOS DL (#)-Users Per Video Mos Class,7155.3
 Integrity-Video MOS DL (#)-Data Sessions,7155.3
-Service Accessibility-CS Call Connect Delay (ms)-Users Cs Call Setup Attempts,9086.095238
-Service Accessibility-CS Call Connect Delay (ms)-Cs Average Call Setup Per Delay Threshold Violation,9086.095238
-Service Accessibility-CS Call Connect Delay (ms)-Users Cs Average Call Setup Per Delay,9086.095238
-Service Accessibility-CS Call Connect Delay (ms)-Userscs Average Call Setup Per Delay Threshold Violation,9086.095238
-Service Accessibility-CS Call Connect Delay (ms)-Cs Call Setup Attempts,9086.095238
-Service Accessibility-CS Call Connect Delay (ms)-Cs Average Call Setup Per Delay,9086.095238
-Service Accessibility-CS Call Connect Delay (ms)-Cs Call Setup Attempts Per Delay,9086.095238
-Service Accessibility-CS Blocked Calls (%)-Userscs Call Setup Failures,9086.095238
-Service Accessibility-CS Blocked Calls (%)-Cs Call Setup Attempts,9086.095238
-Service Accessibility-CS Blocked Calls (%)-Users Cs Call Setup Attempts,9086.095238
-Service Accessibility-CS Blocked Calls (%)-Cs Call Setup Failures,9086.095238
-Retainability-CS Dropped Calls (%)-Cs Call Answer,22016.30769
-Retainability-CS Dropped Calls (%)-Cs Drop Call,22016.30769
-Retainability-CS Dropped Calls (%)-Users Cs Call Answer,22016.30769
-Retainability-CS Dropped Calls (%)-Users Cs Drop Call,22016.30769
 Integrity-CS Attachment Failure Rate (%)-Cs Imsi Attach Failures,7155.3
 Integrity-CS Attachment Failure Rate (%)-Users Cs Imsi Attach Attempts,7155.3
 Integrity-CS Attachment Failure Rate (%)-Cs Imsi Attach Attempts,7155.3
@@ -86,16 +48,234 @@ Integrity-CS MOS (#)-Cs Call Answer,7155.3
 Integrity-CS MOS (#)-Userscs Call Answer,7155.3
 Integrity-CS MOS (#)-Users Cs Call Answer Per Mos Class,7155.3
 Integrity-CS MOS (#)-Cs Call Answer Per Mos Class,7155.3
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Requests With Timeout,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Responses,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Responses,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users Per HTTP Responses Cause Code,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Requests With Timeout,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users Failed HTTP Responses,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Requests,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-Failed HTTP Responses,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Responses Per Cause Code,9086.095238
-Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Requests,9086.095238
+Integrity-Data Packet Retransmission Rate DL (%)-Users Tcp Packets Retransmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate DL (%)-Tcp Packets Retransmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate DL (%)-Users Tcp Packets Transmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate DL (%)-Tcp Packets Transmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Users Tcp Packets Retransmitted Ul,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Users Tcp Packets Transmitted Ul,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Tcp Packets Retransmitted Ul,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Tcp Packets Transmitted Ul,7155.3
+Integrity-voLTE MOS (#)-voLTE Call Answer Per Mos Class,7155.3
+Integrity-voLTE MOS (#)-UsersvoLTE Call Answer Per Mos Class,7155.3
+Integrity-voLTE MOS (#)-Users voLTE Call Answer,7155.3
+Integrity-voLTE MOS (#)-voLTE Call Answer,7155.3
+Mobility-PS Handover Delay (ms)-Users Ps Ho Response Per Delay,2578.486486
+Mobility-PS Handover Delay (ms)-Ps Ho Response Per Delay,2578.486486
+Mobility-PS Handover Delay (ms)-Ps Ho With Response Time Threshold Violation,2578.486486
+Mobility-PS Handover Delay (ms)-Users Ps Ho With Response Time Threshold Violation,2578.486486
+Mobility-PS Handover Delay (ms)-Users Ps Ho Responses,2578.486486
+Mobility-PS Handover Delay (ms)-Ps Ho Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Emm Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Ranap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Bssgp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Ranap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Bssgp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Attempts,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per S1 Ap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Rab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per S1 Ap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Radio Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Rab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Sccp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Sccp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Reject Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Gmm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Reject Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Sm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Radio Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Gmm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Sm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Ho Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failedps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Emm Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Ho Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Failed Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Esm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Failed Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Erab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Attempts,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Esm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Erab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Ranap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Ranap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Ranap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Attempts With Timeout,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Attempts With Timeout,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Delay (s)-Users Ps Rau Response Per Delay,2578.486486
+Mobility-Routing Area Update Delay (s)-Users Ps Rau With Response Time Threshold Violation,2578.486486
+Mobility-Routing Area Update Delay (s)-Ps Rau Response Per Delay,2578.486486
+Mobility-Routing Area Update Delay (s)-Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Delay (s)-Users Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Delay (s)-Ps Rau With Response Time Threshold Violation,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Reject Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Attempts With Timeout,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Failed Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Suspend Resume Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Attempts With Timeout,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Attempts,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Failed Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Suspend Resume Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Gmm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Sm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Sm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Reject Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Radio Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Reject Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Sccp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Rab Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Rab Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Sccp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Ranap Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Attempts,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Reject Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Bssgp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Reject Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Gmm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Radio Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Bssgp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Ranap Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Reject Cause,2578.486486
+Mobility-Tracking Area Update Delay (s)-Ps Tau With Response Time Threshold Violation,2578.486486
+Mobility-Tracking Area Update Delay (s)-Users Ps Tau Response Per Delay,2578.486486
+Mobility-Tracking Area Update Delay (s)-Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Delay (s)-Users Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Delay (s)-Ps Tau Response Per Delay,2578.486486
+Mobility-Tracking Area Update Delay (s)-Users Ps Tau With Response Time Threshold Violation,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Emm Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Failed Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per S1 Ap Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Failed Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts With Timeout,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Attempts Emm,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Emm Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts Emm,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Attempts With Timeout,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per S1 Ap Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Erab Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Erab Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Esm Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Esm Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Ho Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Ho Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Emm Establishment Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Attempts,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Emm Establishment Cause Code,2578.486486
 Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach With Response Time Threshold Violation,1490.6875
 Network Accessibility-PS Attachnent Delay (ms)-Ps Attach With Response Time Threshold Violation,1490.6875
 Network Accessibility-PS Attachnent Delay (ms)-Ps Attach Responses,1490.6875
@@ -200,104 +380,6 @@ Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses,1
 Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Failed Responses,1490.6875
 Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Attempts,1490.6875
 Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses,1490.6875
-Mobility-PS Handover Delay (ms)-Users Ps Ho Response Per Delay,2578.486486
-Mobility-PS Handover Delay (ms)-Ps Ho Response Per Delay,2578.486486
-Mobility-PS Handover Delay (ms)-Ps Ho With Response Time Threshold Violation,2578.486486
-Mobility-PS Handover Delay (ms)-Users Ps Ho With Response Time Threshold Violation,2578.486486
-Mobility-PS Handover Delay (ms)-Users Ps Ho Responses,2578.486486
-Mobility-PS Handover Delay (ms)-Ps Ho Responses,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Emm Establishment Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Ranap Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Sccp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Bssgp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Bssgp Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Ranap Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Sm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Radio Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Bssgp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Rrc Establishment Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Bssgp Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Sm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Attempts,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Sm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Bssgp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Rrc Establishment Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per S1 Ap Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With S1 Ap Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With S1 Ap Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Rab Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per S1 Ap Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With S1 Ap Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Rab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Radio Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Rab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Reject Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Rab Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Reject Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Sccp Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Rab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Reject Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Sccp Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Reject Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Rab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Reject Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Gmm Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Gmm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Sccp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Gmm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Reject Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Gmm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Sm Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Sccp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Gmm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Radio Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Gmm Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Bssgp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Radio Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Sm Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Sccp Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Sm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Ho Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Failedps Ho Responses With Emm Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Emm Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Ho Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Ho Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Ho Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Ho Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Esm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Emm Establishment Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Esm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Esm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With S1 Ap Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Ho Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Failed Responses,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Esm Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Esm Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Erab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Failed Responses,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Erab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Erab Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Erab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Erab Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Attempts,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Esm Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Emm Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Emm Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Erab Cause Code,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Rrc Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Radio Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Rrc Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Ranap Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Rrc Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Radio Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Ranap Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Ranap Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Attempts With Timeout,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Attempts With Timeout,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Rrc Establishment Cause,2578.486486
-Mobility-PS Handover Success Rate (%)-Ps Ho Responses,2578.486486
-Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Ranap Cause,2578.486486
 Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup Responses,1490.6875
 Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup Responses,1490.6875
 Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup With Response Time Threshold Violation,1490.6875
@@ -416,74 +498,6 @@ Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activati
 Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Sccp Cause,1490.6875
 Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Sm Cause Code,1490.6875
 Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Gmm Cause,1490.6875
-Mobility-Routing Area Update Delay (s)-Users Ps Rau Response Per Delay,2578.486486
-Mobility-Routing Area Update Delay (s)-Users Ps Rau With Response Time Threshold Violation,2578.486486
-Mobility-Routing Area Update Delay (s)-Ps Rau Response Per Delay,2578.486486
-Mobility-Routing Area Update Delay (s)-Ps Rau Responses,2578.486486
-Mobility-Routing Area Update Delay (s)-Users Ps Rau Responses,2578.486486
-Mobility-Routing Area Update Delay (s)-Ps Rau With Response Time Threshold Violation,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Suspend Resume Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Reject Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Suspend Resume Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Bssgp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Bssgp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Attempts With Timeout,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Failed Responses,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Suspend Resume Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Ranap Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Suspend Resume Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Gmm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Attempts With Timeout,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Bssgp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Attempts,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Failed Responses,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Gmm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Gmm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Gmm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Bssgp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Sm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Suspend Resume Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Gmm Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Rab Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Rab Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Sm Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Radio Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Rab Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Sm Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Reject Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Sccp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Radio Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Radio Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Sccp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Reject Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Sccp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Radio Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Sccp Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Sccp Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Sm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Sm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Rab Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Rab Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Sm Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Sccp Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Radio Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Ranap Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Suspend Resume Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Ranap Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Attempts,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Reject Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Bssgp Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Ranap Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Reject Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Rab Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Gmm Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Radio Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Ranap Cause,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Bssgp Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Ranap Cause Code,2578.486486
-Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Reject Cause,2578.486486
 Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation With Response Time Threshold Violation,1490.6875
 Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1490.6875
 Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1490.6875
@@ -634,56 +648,19 @@ Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Re
 Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses S1Mme Service Request Cause,1490.6875
 Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1490.6875
 Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1490.6875
-Mobility-Tracking Area Update Delay (s)-Ps Tau With Response Time Threshold Violation,2578.486486
-Mobility-Tracking Area Update Delay (s)-Users Ps Tau Response Per Delay,2578.486486
-Mobility-Tracking Area Update Delay (s)-Ps Tau Responses,2578.486486
-Mobility-Tracking Area Update Delay (s)-Users Ps Tau Responses,2578.486486
-Mobility-Tracking Area Update Delay (s)-Ps Tau Response Per Delay,2578.486486
-Mobility-Tracking Area Update Delay (s)-Users Ps Tau With Response Time Threshold Violation,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Emm Establishment Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Ho Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Failed Responses,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Esm Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per S1 Ap Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Ho Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Rrc Establishment Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Rrc Establishment Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Rrc Establishment Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Failed Responses,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Esm Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts With Timeout,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Ho Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Attempts Emm,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Esm Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Emm Establishment Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Esm Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts Emm,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Attempts With Timeout,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per S1 Ap Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Erab Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Erab Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Ho Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Esm Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With S1 Ap Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Esm Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Ho Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Erab Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Rrc Establishment Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With S1 Ap Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Ho Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Erab Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Emm Establishment Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Attempts,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Rrc Establishment Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Erab Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With S1 Ap Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Erab Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With S1 Ap Cause,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Rrc Establishment Cause Code,2578.486486
-Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Emm Establishment Cause Code,2578.486486
+Retainability-Stall count (#)-Stalling Events,22016.30769
+Retainability-Stall count (#)-Users Successful HTTP Responses,22016.30769
+Retainability-Stall count (#)-Users Stalling Events,22016.30769
+Retainability-Stall count (#)-Users Succesful HTTP Responses,22016.30769
+Retainability-Stall Time (s)-Stalling Events Per Stall Time,22016.30769
+Retainability-Stall Time (s)-Average Stall Time Threshold Violation,22016.30769
+Retainability-Stall Time (s)-Users Stalling Events Per Stall Time,22016.30769
+Retainability-Stall Time (s)-Users Average Stall Time Threshold Violation,22016.30769
+Retainability-Stall Time (s)-Users Stalling Events,22016.30769
+Retainability-CS Dropped Calls (%)-Cs Call Answer,22016.30769
+Retainability-CS Dropped Calls (%)-Cs Drop Call,22016.30769
+Retainability-CS Dropped Calls (%)-Users Cs Call Answer,22016.30769
+Retainability-CS Dropped Calls (%)-Users Cs Drop Call,22016.30769
 Retainability-Video Stall Time Rate (%)-Stall Duration,22016.30769
 Retainability-Video Stall Time Rate (%)-Video Duration,22016.30769
 Retainability-Video Stall Time Rate (%)-Users Successful HTTP Responses,22016.30769
@@ -693,16 +670,45 @@ Retainability-Data Packet Loss Rate (%)-Tcp Packets Transmitted Ul,22016.30769
 Retainability-Data Packet Loss Rate (%)-Lost Tcp Packets,22016.30769
 Retainability-Data Packet Loss Rate (%)-Users Lost Tcp Packets,22016.30769
 Retainability-Data Packet Loss Rate (%)-Users Tcp Packets Transmitted Dl,22016.30769
-Integrity-Data Packet Retransmission Rate DL (%)-Users Tcp Packets Retransmitted Dl,7155.3
-Integrity-Data Packet Retransmission Rate DL (%)-Tcp Packets Retransmitted Dl,7155.3
-Integrity-Data Packet Retransmission Rate DL (%)-Users Tcp Packets Transmitted Dl,7155.3
-Integrity-Data Packet Retransmission Rate DL (%)-Tcp Packets Transmitted Dl,7155.3
-Integrity-Data Packet Retransmission Rate UL (%)-Users Tcp Packets Retransmitted Ul,7155.3
-Integrity-Data Packet Retransmission Rate UL (%)-Users Tcp Packets Transmitted Ul,7155.3
-Integrity-Data Packet Retransmission Rate UL (%)-Tcp Packets Retransmitted Ul,7155.3
-Integrity-Data Packet Retransmission Rate UL (%)-Tcp Packets Transmitted Ul,7155.3
-Usage-Data Volume Download (mb)-Users Tcp Packets Transmitted Dl,143106
-Usage-Data Volume Upload (mb)-Users Tcp Packets Transmitted Ul,143106
+Retainability-vOLTE Dropped Calls (%)-voLTE Call Answer,22016.30769
+Retainability-vOLTE Dropped Calls (%)-Users voLTE Drop Call,22016.30769
+Retainability-vOLTE Dropped Calls (%)-voLTE Drop Call,22016.30769
+Retainability-vOLTE Dropped Calls (%)-Users voLTE Call Answer,22016.30769
+Service Accessibility-Application Response Time (s)-HTTP Requests,9086.095238
+Service Accessibility-Application Response Time (s)-HTTP Responses With Response Time Threshold Violation,9086.095238
+Service Accessibility-Application Response Time (s)-HTTP Responses Per Delay,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Responses Per Delay,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Responses,9086.095238
+Service Accessibility-Application Response Time (s)-HTTP Responses,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Requests,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Response Time Threshold Violation,9086.095238
+Service Accessibility-Time to Start (s)-HTTP Responses With Time To Start Threshold Violation,9086.095238
+Service Accessibility-Time to Start (s)-Users HTTP Responses With Time To Start Threshold Violation,9086.095238
+Service Accessibility-Time to Start (s)-Users Successful HTTP Responses,9086.095238
+Service Accessibility-Time to Start (s)-HTTP Responses Per Time To Start,9086.095238
+Service Accessibility-Time to Start (s)-Users HTTP Responses Per Time To Start,9086.095238
+Service Accessibility-Time to Start (s)-Successful HTTP Responses,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Users Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Average Call Setup Per Delay Threshold Violation,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Users Cs Average Call Setup Per Delay,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Userscs Average Call Setup Per Delay Threshold Violation,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Average Call Setup Per Delay,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Call Setup Attempts Per Delay,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Userscs Call Setup Failures,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Users Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Cs Call Setup Failures,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Requests With Timeout,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users Per HTTP Responses Cause Code,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Requests With Timeout,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users Failed HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Requests,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Failed HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Responses Per Cause Code,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Requests,9086.095238
 Service Accessibility-voLTE Blocked Calls (%)-voLTE Call Setup Failures,9086.095238
 Service Accessibility-voLTE Blocked Calls (%)-voLTE Call Setup Attempts,9086.095238
 Service Accessibility-voLTE Blocked Calls (%)-Users voLTE Call Setup Failures,9086.095238
@@ -713,14 +719,6 @@ Service Accessibility-voLTE Connection Delay (ms)-Users voLTE Call Setup Attempt
 Service Accessibility-voLTE Connection Delay (ms)-Users voLTE Connection Per Delay,9086.095238
 Service Accessibility-voLTE Connection Delay (ms)-voLTE Call Setup Attempts,9086.095238
 Service Accessibility-voLTE Connection Delay (ms)-voLTE Connection Per Delay,9086.095238
-Retainability-vOLTE Dropped Calls (%)-voLTE Call Answer,22016.30769
-Retainability-vOLTE Dropped Calls (%)-Users voLTE Drop Call,22016.30769
-Retainability-vOLTE Dropped Calls (%)-voLTE Drop Call,22016.30769
-Retainability-vOLTE Dropped Calls (%)-Users voLTE Call Answer,22016.30769
-Integrity-voLTE MOS (#)-voLTE Call Answer Per Mos Class,7155.3
-Integrity-voLTE MOS (#)-UsersvoLTE Call Answer Per Mos Class,7155.3
-Integrity-voLTE MOS (#)-Users voLTE Call Answer,7155.3
-Integrity-voLTE MOS (#)-voLTE Call Answer,7155.3
 Service Accessibility-voLte Registration Fail (%)-voLTE Connection Delay,9086.095238
 Service Accessibility-voLte Registration Fail (%)-Users voLTE Registration Attempts,9086.095238
 Service Accessibility-voLte Registration Fail (%)-Users voLTE Registration Failures,9086.095238
@@ -730,3 +728,5 @@ Service Accessibility-voLte Srvcc Fail (%)-Users voLTE Srvcc Failures,9086.09523
 Service Accessibility-voLte Srvcc Fail (%)-voLTE Srvcc Failures,9086.095238
 Service Accessibility-voLte Srvcc Fail (%)-voLTE Srvcc Attempts,9086.095238
 Service Accessibility-voLte Srvcc Fail (%)-Users voLTE Srvcc Attempts,9086.095238
+Usage-Data Volume Download (mb)-Users Tcp Packets Transmitted Dl,143106
+Usage-Data Volume Upload (mb)-Users Tcp Packets Transmitted Ul,143106
