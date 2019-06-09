@@ -96,110 +96,110 @@ Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Requests,9086.09523
 Service Accessibility-Web (HTTP) Response Fail Rate (%)-Failed HTTP Responses,9086.095238
 Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Responses Per Cause Code,9086.095238
 Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Requests,9086.095238
-Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach With Response Time Threshold Violation,1498.492147
-Network Accessibility-PS Attachnent Delay (ms)-Ps Attach With Response Time Threshold Violation,1498.492147
-Network Accessibility-PS Attachnent Delay (ms)-Ps Attach Responses,1498.492147
-Network Accessibility-PS Attachnent Delay (ms)-Ps Attach Response Per Delay,1498.492147
-Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach Responses,1498.492147
-Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach Response Per Delay,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Attempts With Timeout,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Ho Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Ho Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failedps Attach Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Reject Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Reject Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Ho Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Ho Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Gmm Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Gmm Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Esm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Esm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Rab Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Esm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Esm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Erab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Erab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Bssgp Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Erab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Attempts With Timeout,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Erab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Failed Responses,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Bssgp Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Rab Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Radio Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Bssgp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Bssgp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Bssgp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Bssgp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Gmm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Gmm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Gmm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Gmm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Reject Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Reject Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Reject Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Reject Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Rab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Rab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Rab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Sccp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Sccp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Sccp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Sccp Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Sm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Sm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Sm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Sm Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Radio Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Rab Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Radio Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Ranap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Ranap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Sccp Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Sm Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Sm Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Radio Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Radio Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Ranap Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Radio Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Ho Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Ho Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Esm Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Esm Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Erab Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Erab Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Suspend Resume Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Suspend Resume Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failedps Attach Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Ranap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Ranap Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Sccp Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Ranap Cause Code,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Attempts,1498.492147
-Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses,1498.492147
-Accessibility-PS Attachment Success Rate (%)-Ps Attach Failed Responses,286212
-Accessibility-PS Attachment Success Rate (%)-Ps Attach Attempts,286212
-Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses,1498.492147
+Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach With Response Time Threshold Violation,1490.6875
+Network Accessibility-PS Attachnent Delay (ms)-Ps Attach With Response Time Threshold Violation,1490.6875
+Network Accessibility-PS Attachnent Delay (ms)-Ps Attach Responses,1490.6875
+Network Accessibility-PS Attachnent Delay (ms)-Ps Attach Response Per Delay,1490.6875
+Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach Responses,1490.6875
+Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach Response Per Delay,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Attempts With Timeout,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Ho Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Ho Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failedps Attach Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Reject Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Reject Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Ho Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Ho Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Gmm Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Gmm Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Esm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Esm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Rab Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Esm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Esm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Erab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Erab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Bssgp Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Erab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Attempts With Timeout,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Erab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Failed Responses,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Bssgp Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Rab Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Radio Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Bssgp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Bssgp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Bssgp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Bssgp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Gmm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Gmm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Gmm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Gmm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Reject Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Reject Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Reject Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Reject Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Rab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Rab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Rab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Sccp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Sccp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Sccp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Sccp Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Sm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Sm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Sm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Sm Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Radio Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Rab Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Radio Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Ranap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Ranap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Sccp Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Sm Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Sm Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Radio Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Radio Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Ranap Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Radio Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Ho Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Ho Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Esm Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Esm Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Erab Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Erab Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Suspend Resume Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Suspend Resume Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failedps Attach Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Ranap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Ranap Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Sccp Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Ranap Cause Code,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Attempts,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Failed Responses,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Attempts,1490.6875
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses,1490.6875
 Mobility-PS Handover Delay (ms)-Users Ps Ho Response Per Delay,2578.486486
 Mobility-PS Handover Delay (ms)-Ps Ho Response Per Delay,2578.486486
 Mobility-PS Handover Delay (ms)-Ps Ho With Response Time Threshold Violation,2578.486486
@@ -298,124 +298,124 @@ Mobility-PS Handover Success Rate (%)-Ps Ho Attempts With Timeout,2578.486486
 Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Rrc Establishment Cause,2578.486486
 Mobility-PS Handover Success Rate (%)-Ps Ho Responses,2578.486486
 Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Ranap Cause,2578.486486
-Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup Responses,1498.492147
-Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup Responses,1498.492147
-Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup With Response Time Threshold Violation,1498.492147
-Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup Response Per Delay,1498.492147
-Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup Response Per Delay,1498.492147
-Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup With Response Time Threshold Violation,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Ho Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Esm Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Ho Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Erab Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Attempts,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Erab Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Attempts With Timeout,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Esm Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Ho Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Esm Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Ho Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Ho Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Failedps Initial Context Setup Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Attempts With Timeout,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Erab Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Failed Responses,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Erab Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Esm Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Attempts,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Erab Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With S1 Ap Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Esm Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Erab Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Esm Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Failed Responses,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Ho Cause,1498.492147
-Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation Response Per Delay,1498.492147
-Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation With Response Time Threshold Violation,1498.492147
-Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation With Response Time Threshold Violation,1498.492147
-Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation Responses,1498.492147
-Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation Response Per Delay,1498.492147
-Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation Responses,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Gmm Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Rab Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Radio Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Attempts With Timeout,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Attempts With Timeout,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Reject Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Radio Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Gmm Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Suspend Resume Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Radio Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Rab Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Failed Responses,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Rab Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Sm Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Reject Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Bssgp Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Reject Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Ranap Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Sm Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Attempts,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Suspend Resume Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Bssgp Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Reject Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Ranap Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Radio Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Sccp Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Sccp Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Radio Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Radio Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Sm Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Rab Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Sm Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Rab Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Failed Responses,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Sm Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Attempts,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Reject Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Rab Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Reject Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Sm Cause Code,1498.492147
-Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup Responses,1490.6875
+Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup Responses,1490.6875
+Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup With Response Time Threshold Violation,1490.6875
+Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup Response Per Delay,1490.6875
+Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup Response Per Delay,1490.6875
+Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup With Response Time Threshold Violation,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Ho Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Esm Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Ho Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Erab Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Attempts,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Erab Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Attempts With Timeout,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Esm Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Ho Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Esm Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Ho Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Ho Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failedps Initial Context Setup Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Attempts With Timeout,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Erab Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Failed Responses,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Erab Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Esm Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Attempts,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Erab Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With S1 Ap Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Esm Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Erab Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Esm Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Failed Responses,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Ho Cause,1490.6875
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation Response Per Delay,1490.6875
+Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation With Response Time Threshold Violation,1490.6875
+Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation With Response Time Threshold Violation,1490.6875
+Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation Responses,1490.6875
+Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation Response Per Delay,1490.6875
+Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation Responses,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Gmm Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Rab Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Radio Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Ranap Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Attempts With Timeout,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Attempts With Timeout,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Reject Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Radio Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Gmm Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Suspend Resume Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Radio Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Rab Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Failed Responses,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Rab Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Bssgp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Ranap Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Sm Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Reject Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Bssgp Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Ranap Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Reject Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Ranap Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Sm Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Attempts,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Suspend Resume Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Bssgp Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Ranap Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Reject Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Ranap Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Gmm Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Gmm Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Radio Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Bssgp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Sccp Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Bssgp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Sccp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Sccp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Sccp Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Radio Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Radio Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Sm Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Bssgp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Rab Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Sm Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Rab Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Gmm Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Failed Responses,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Sm Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Attempts,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Reject Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Suspend Resume Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Rab Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Reject Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Sccp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Sccp Cause,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Sm Cause Code,1490.6875
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Gmm Cause,1490.6875
 Mobility-Routing Area Update Delay (s)-Users Ps Rau Response Per Delay,2578.486486
 Mobility-Routing Area Update Delay (s)-Users Ps Rau With Response Time Threshold Violation,2578.486486
 Mobility-Routing Area Update Delay (s)-Ps Rau Response Per Delay,2578.486486
@@ -484,156 +484,156 @@ Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Ranap Cause,
 Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Bssgp Cause Code,2578.486486
 Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Ranap Cause Code,2578.486486
 Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Reject Cause,2578.486486
-Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Attempts,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Attempts,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Attempts With Timeout,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Attempts With Timeout,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Failed Responses,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Failed Responses,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
-Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation Response Per Delay,1498.492147
-Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
-Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
-Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation Response Per Delay,1498.492147
-Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Attempts,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Failed Responses,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Attempts,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Attempts With Timeout,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Failed Responses,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Attempts With Timeout,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request Response Per Delay,1498.492147
-Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request With Response Time Threshold Violation,1498.492147
-Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request Responses,1498.492147
-Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request Response Per Delay,1498.492147
-Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request With Response Time Threshold Violation,1498.492147
-Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request Responses,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Esm Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Attempts,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Failed Responses,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Esm Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per S1Mme Service Request Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Attempts,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per S1Mme Service Request Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Attempts With Timeout,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Emm Establishment Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Attempts With Timeout,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Rrc Establishment Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per S1 Ap Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Failed Responses,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Erab Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Erab Cause Code,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Erab Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Erab Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Esm Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Erab Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Esm Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Erab Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Esm Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Esm Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
-Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation With Response Time Threshold Violation,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation With Response Time Threshold Violation,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Attempts,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Attempts,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Attempts With Timeout,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Ho Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Attempts With Timeout,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Erab Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Ho Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Esm Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Failed Responses,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Erab Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Failed Responses,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Esm Cause Code,1490.6875
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation Response Per Delay,1490.6875
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation With Response Time Threshold Violation,1490.6875
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation With Response Time Threshold Violation,1490.6875
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation Response Per Delay,1490.6875
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Esm Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Erab Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Esm Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Ho Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Attempts,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Ho Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Erab Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Failed Responses,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Attempts,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Attempts With Timeout,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Failed Responses,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Attempts With Timeout,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request Response Per Delay,1490.6875
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request With Response Time Threshold Violation,1490.6875
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request Responses,1490.6875
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request Response Per Delay,1490.6875
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request With Response Time Threshold Violation,1490.6875
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request Responses,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Esm Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Attempts,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Failed Responses,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Esm Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per S1Mme Service Request Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Attempts,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per S1Mme Service Request Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Attempts With Timeout,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Emm Establishment Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Attempts With Timeout,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Rrc Establishment Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per S1 Ap Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Failed Responses,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses S1Mme Service Request Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Erab Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Erab Cause Code,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Erab Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Erab Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With S1 Ap Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Esm Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Erab Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Esm Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With S1 Ap Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Erab Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Esm Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Rrc Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Esm Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With S1 Ap Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Emm Establishment Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With S1 Ap Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses S1Mme Service Request Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1490.6875
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1490.6875
 Mobility-Tracking Area Update Delay (s)-Ps Tau With Response Time Threshold Violation,2578.486486
 Mobility-Tracking Area Update Delay (s)-Users Ps Tau Response Per Delay,2578.486486
 Mobility-Tracking Area Update Delay (s)-Ps Tau Responses,2578.486486
