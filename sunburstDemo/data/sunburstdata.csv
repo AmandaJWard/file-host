@@ -1,729 +1,732 @@
-Access-Application Response Time (s)-httpRequests,1
-Access-Application Response Time (s)-httpResponsesWithResponseTimeThresholdViolation,1
-Access-Application Response Time (s)-httpResponsesPerDelay,1
-Access-Application Response Time (s)-usersHttpResponsesPerDelay,1
-Access-Application Response Time (s)-usersHttpResponses,1
-Access-Application Response Time (s)-httpResponses,1
-Access-Application Response Time (s)-usersHttpRequests,1
-Access-Application Response Time (s)-usersHttpResponseTimeThresholdViolation,1
-Quality-Audio MOS Down (#)-sessionsPerAudioMosClass,1
-Quality-Audio MOS Down (#)-usersPerAudioMosClass,1
-Quality-Audio MOS Down (#)-usersDataSessions,1
-Quality-Audio MOS Down (#)-dataSessions,1
-Quality-Throughput DL (mbps)-successfulHttpResponses,1
-Quality-Throughput DL (mbps)-usersHttpThroughputDlThresholdViolation,1
-Quality-Throughput DL (mbps)-usersHttpResponses,1
-Quality-Throughput DL (mbps)-httpResponsesWithThroughputDlThresholdViolation,1
-Quality-Throughput DL (mbps)-httpRequests,1
-Quality-Throughput DL (mbps)-httpResponsesPerThroughputDl,1
-Quality-Throughput DL (mbps)-usersHttpResponsesPerThroughputDl,1
-Quality-Throughput DL (mbps)-usersHttpRequests,1
-Quality-Throughput DL (mbps)-httpResponses,1
-Quality-Throughput DL (mbps)-usersSuccessfulHttpResponses,1
-Quality-Throughput UL (mbps)-usersHttpResponsesPerThroughputUl,1
-Quality-Throughput UL (mbps)-httpResponsesPerThroughputUl,1
-Quality-Throughput UL (mbps)-usersHttpThroughputUlThresholdViolation,1
-Quality-Throughput UL (mbps)-httpResponsesWithThroughputUlThresholdViolation,1
-Quality-Throughput UL (mbps)-successfulHttpResponses,1
-Quality-Throughput UL (mbps)-usersHttpRequests,1
-Quality-Throughput UL (mbps)-httpResponses,1
-Quality-Throughput UL (mbps)-usersSuccessfulHttpResponses,1
-Quality-Throughput UL (mbps)-httpRequests,1
-Quality-Throughput UL (mbps)-usersHttpResponses,1
-Quality-Jitter UL (ms)-packetJitterDl,1
-Quality-Jitter UL (ms)-usersTcpPacketsTransmittedDl,1
-Quality-Jitter UL (ms)-usersAverageJitterDlThresholdViolation,1
-Quality-Jitter UL (ms)-usersPacketJitterDl,1
-Quality-Jitter UL (ms)-averageJitterDlThresholdViolation,1
-Quality-Jitter DL (ms)-packetJitterUl,1
-Quality-Jitter DL (ms)-usersTcpPacketsTransmittedUl,1
-Quality-Jitter DL (ms)-averageJitterUlThresholdViolation,1
-Quality-Jitter DL (ms)-usersPacketJitterUl,1
-Quality-Jitter DL (ms)-usersAverageJitterUlThresholdViolation,1
-Quality-Stall count (#)-stallingEvents,1
-Quality-Stall count (#)-usersSuccessfulHttpResponses,1
-Quality-Stall Time (s)-stallingEventsPerStallTime,1
-Quality-Stall Time (s)-averageStallTimeThresholdViolation,1
-Quality-Stall Time (s)-usersStallingEventsPerStallTime,1
-Quality-Stall Time (s)-usersAverageStallTimeThresholdViolation,1
-Quality-Stall Time (s)-usersStallingEvents,1
-Access-Time to Start (s)-httpResponsesWithTimeToStartThresholdViolation,1
-Access-Time to Start (s)-usersHttpResponsesWithTimeToStartThresholdViolation,1
-Access-Time to Start (s)-usersSuccessfulHttpResponses,1
-Access-Time to Start (s)-httpResponsesPerTimeToStart,1
-Access-Time to Start (s)-usersHttpResponsesPerTimeToStart,1
-Access-Time to Start (s)-successfulHttpResponses,1
-Quality-Video MOS DL (#)-sessionsPerVideoMosClass,1
-Quality-Video MOS DL (#)-usersDataSessions,1
-Quality-Video MOS DL (#)-usersPerVideoMosClass,1
-Quality-Video MOS DL (#)-dataSessions,1
-Access-CS Call Connect Delay (ms)-usersCsCallSetupAttempts,1
-Access-CS Call Connect Delay (ms)-csAverageCallSetupPerDelayThresholdViolation,1
-Access-CS Call Connect Delay (ms)-usersCsAverageCallSetupPerDelay,1
-Access-CS Call Connect Delay (ms)-userscsAverageCallSetupPerDelayThresholdViolation,1
-Access-CS Call Connect Delay (ms)-csCallSetupAttempts,1
-Access-CS Call Connect Delay (ms)-csAverageCallSetupPerDelay,1
-Access-CS Blocked Calls (%)-userscsCallSetupFailures,1
-Access-CS Blocked Calls (%)-csCallSetupAttempts,1
-Access-CS Blocked Calls (%)-usersCsCallSetupAttempts,1
-Access-CS Blocked Calls (%)-csCallSetupFailures,1
-Quality-CS Dropped Calls (%)-csCallAnswer,1
-Quality-CS Dropped Calls (%)-csDropCall,1
-Quality-CS Dropped Calls (%)-usersCsCallAnswer,1
-Quality-CS Dropped Calls (%)-usersCsDropCall,1
-Access-CS Attachment Failure Rate (%)-csImsiAttachFailures,1
-Access-CS Attachment Failure Rate (%)-usersCsImsiAttachAttempts,1
-Access-CS Attachment Failure Rate (%)-csImsiAttachAttempts,1
-Access-CS Attachment Failure Rate (%)-usersCsImsiAttachFailures,1
-Access-CS GPS Failure Rate (%)-csLocationUpdateFailures,1
-Access-CS GPS Failure Rate (%)-usersCsLocationUpdateAttempts,1
-Access-CS GPS Failure Rate (%)-csLocationUpdateAttempts,1
-Access-CS GPS Failure Rate (%)-usersCsLocationUpdateFailures,1
-Quality-CS MOS (#)-csCallAnswer,1
-Quality-CS MOS (#)-userscsCallAnswer,1
-Quality-CS MOS (#)-usersCsCallAnswerPerMosClass,1
-Quality-CS MOS (#)-csCallAnswerPerMosClass,1
-Access-Web (HTTP) Response Fail Rate (%)-usersHttpRequestsWithTimeout,1
-Access-Web (HTTP) Response Fail Rate (%)-usersHttpResponses,1
-Access-Web (HTTP) Response Fail Rate (%)-httpResponses,1
-Access-Web (HTTP) Response Fail Rate (%)-usersPerHttpResponsesCauseCode,1
-Access-Web (HTTP) Response Fail Rate (%)-httpRequestsWithTimeout,1
-Access-Web (HTTP) Response Fail Rate (%)-usersFailedHttpResponses,1
-Access-Web (HTTP) Response Fail Rate (%)-httpRequests,1
-Access-Web (HTTP) Response Fail Rate (%)-failedHttpResponses,1
-Access-Web (HTTP) Response Fail Rate (%)-httpResponsesPerCauseCode,1
-Access-Web (HTTP) Response Fail Rate (%)-usersHttpRequests,1
-Access-PS Attachnent Delay (ms)-usersPsAttachWithResponseTimeThresholdViolation,1
-Access-PS Attachnent Delay (ms)-psAttachWithResponseTimeThresholdViolation,1
-Access-PS Attachnent Delay (ms)-psAttachResponses,1
-Access-PS Attachnent Delay (ms)-psAttachResponsePerDelay,1
-Access-PS Attachnent Delay (ms)-usersPsAttachResponses,1
-Access-PS Attachnent Delay (ms)-usersPsAttachResponsePerDelay,1
-Access-PS Attachment Success Rate (%)-usersPsAttachAttemptsWithTimeout,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithHoCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithHoCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithEmmEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-failedpsAttachResponsesWithEmmEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithEmmEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithEmmEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerRejectCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerRejectCauseCode,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithHoCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithHoCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerGmmCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerGmmCauseCode,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithEsmCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithEsmCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerRabCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerS1APCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithEsmCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithEsmCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithErabCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithErabCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerS1APCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerBssgpCauseCode,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithErabCause,1
-Access-PS Attachment Success Rate (%)-psAttachAttemptsWithTimeout,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithErabCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithSuspendResumeCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithSuspendResumeCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachFailedResponses,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerBssgpCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerRabCauseCode,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithRadioCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithSuspendResumeCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithS1APCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithBssgpCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithBssgpCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithBssgpCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithBssgpCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithGmmCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithGmmCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithGmmCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithGmmCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithRejectCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithRejectCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithRejectCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithS1APCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithRejectCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithRabCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithRabCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithRabCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithSccpCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithSccpCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithSccpCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithSccpCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithSmCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithSmCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithSmCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithSmCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithRadioCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithRabCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithRadioCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithRanapCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithRanapCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerSccpCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerSmCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerSmCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerRadioCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerRadioCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerRanapCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithRadioCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerRrcEstablishmentCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerRrcEstablishmentCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerEmmEstablishmentCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerEmmEstablishmentCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerHoCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerHoCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerEsmCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerEsmCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerErabCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerErabCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerSuspendResumeCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerSuspendResumeCauseCode,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithS1APCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithS1APCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithRrcEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-failedpsAttachResponsesWithRrcEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesWithRrcEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesWithRrcEstablishmentCause,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithRanapCause,1
-Access-PS Attachment Success Rate (%)-failedPsAttachResponsesWithRanapCause,1
-Access-PS Attachment Success Rate (%)-psAttachResponsesPerSccpCauseCode,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponsesPerRanapCauseCode,1
-Access-PS Attachment Success Rate (%)-usersFailedPsAttachResponsesWithSuspendResumeCause,1
-Access-PS Attachment Success Rate (%)-usersPsAttachAttempts,1
-Access-PS Attachment Success Rate (%)-usersPsAttachResponses,1
-Access-PS Attachment Success Rate (%)-psAttachFailedResponses,1
-Access-PS Attachment Success Rate (%)-psAttachAttempts,1
-Access-PS Attachment Success Rate (%)-psAttachResponses,1
-Access-PS Handover Delay (ms)-usersPsHoResponsePerDelay,1
-Access-PS Handover Delay (ms)-psHoResponsePerDelay,1
-Access-PS Handover Delay (ms)-psHoWithResponseTimeThresholdViolation,1
-Access-PS Handover Delay (ms)-usersPsHoWithResponseTimeThresholdViolation,1
-Access-PS Handover Delay (ms)-usersPsHoResponses,1
-Access-PS Handover Delay (ms)-psHoResponses,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerEmmEstablishmentCauseCode,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerRanapCauseCode,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithSccpCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithBssgpCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerBssgpCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponses,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerRanapCauseCode,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithSmCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithRadioCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithBssgpCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerRrcEstablishmentCauseCode,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerBssgpCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithSmCause,1
-Access-PS Handover Success Rate (%)-usersPsHoAttempts,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithSmCause,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithBssgpCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerRrcEstablishmentCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerS1APCauseCode,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithS1APCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithS1APCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerRabCauseCode,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerS1APCauseCode,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithS1APCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithRabCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerRadioCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithRabCause,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithRejectCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerRabCauseCode,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithRejectCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerSccpCauseCode,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithRabCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithRejectCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerSccpCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerRejectCauseCode,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithRabCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithRejectCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerGmmCauseCode,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithGmmCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithSccpCause,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithGmmCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerRejectCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithGmmCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerSmCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithSccpCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithGmmCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerRadioCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerGmmCauseCode,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithBssgpCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithRadioCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerSmCauseCode,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithSccpCause,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithSmCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerHoCauseCode,1
-Access-PS Handover Success Rate (%)-failedpsHoResponsesWithEmmEstablishmentCause,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithEmmEstablishmentCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithHoCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithHoCause,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithHoCause,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithHoCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithEsmCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerEmmEstablishmentCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithEsmCause,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithEsmCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithS1APCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerHoCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoFailedResponses,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithEsmCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerEsmCauseCode,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithErabCause,1
-Access-PS Handover Success Rate (%)-psHoFailedResponses,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithErabCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerErabCauseCode,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithErabCause,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithErabCause,1
-Access-PS Handover Success Rate (%)-psHoAttempts,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesPerEsmCauseCode,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithEmmEstablishmentCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithEmmEstablishmentCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesPerErabCauseCode,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithRrcEstablishmentCause,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithRadioCause,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithRrcEstablishmentCause,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithRanapCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithRrcEstablishmentCause,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithRadioCause,1
-Access-PS Handover Success Rate (%)-psHoResponsesWithRanapCause,1
-Access-PS Handover Success Rate (%)-failedPsHoResponsesWithRanapCause,1
-Access-PS Handover Success Rate (%)-usersPsHoAttemptsWithTimeout,1
-Access-PS Handover Success Rate (%)-psHoAttemptsWithTimeout,1
-Access-PS Handover Success Rate (%)-usersFailedPsHoResponsesWithRrcEstablishmentCause,1
-Access-PS Handover Success Rate (%)-psHoResponses,1
-Access-PS Handover Success Rate (%)-usersPsHoResponsesWithRanapCause,1
-Access-PS Initial Context Setup Delay (ms)-usersPsInitialContextSetupResponses,1
-Access-PS Initial Context Setup Delay (ms)-psInitialContextSetupResponses,1
-Access-PS Initial Context Setup Delay (ms)-psInitialContextSetupWithResponseTimeThresholdViolation,1
-Access-PS Initial Context Setup Delay (ms)-usersPsInitialContextSetupResponsePerDelay,1
-Access-PS Initial Context Setup Delay (ms)-psInitialContextSetupResponsePerDelay,1
-Access-PS Initial Context Setup Delay (ms)-usersPsInitialContextSetupWithResponseTimeThresholdViolation,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesWithS1APCause,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesPerHoCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesWithEsmCause,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesPerS1APCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-failedPsInitialContextSetupResponsesWithRrcEstablishmentCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesPerHoCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesPerErabCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupAttempts,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesPerErabCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponses,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupAttemptsWithTimeout,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesPerEsmCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesWithHoCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesPerEsmCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-failedPsInitialContextSetupResponsesWithHoCause,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesWithHoCause,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesWithEmmEstablishmentCause,1
-Access-PS Initial Context Setup Success Rate (%)-failedpsInitialContextSetupResponsesWithS1APCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesWithS1APCause,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesPerRrcEstablishmentCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupAttemptsWithTimeout,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesWithErabCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesWithRrcEstablishmentCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesPerS1APCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupFailedResponses,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponses,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesPerRrcEstablishmentCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-usersFailedPsInitialContextSetupResponsesWithRrcEstablishmentCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesWithErabCause,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesWithRrcEstablishmentCause,1
-Access-PS Initial Context Setup Success Rate (%)-failedPsInitialContextSetupResponsesWithEsmCause,1
-Access-PS Initial Context Setup Success Rate (%)-failedPsInitialContextSetupResponsesWithEmmEstablishmentCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupAttempts,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesPerEmmEstablishmentCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-failedPsInitialContextSetupResponsesWithErabCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersFailedPsInitialContextSetupResponsesWithS1APCause,1
-Access-PS Initial Context Setup Success Rate (%)-psInitialContextSetupResponsesWithEsmCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersFailedPsInitialContextSetupResponsesWithErabCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersFailedPsInitialContextSetupResponsesWithEmmEstablishmentCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesPerEmmEstablishmentCauseCode,1
-Access-PS Initial Context Setup Success Rate (%)-usersFailedPsInitialContextSetupResponsesWithEsmCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupFailedResponses,1
-Access-PS Initial Context Setup Success Rate (%)-usersFailedPsInitialContextSetupResponsesWithHoCause,1
-Access-PS Initial Context Setup Success Rate (%)-usersPsInitialContextSetupResponsesWithEmmEstablishmentCause,1
-Access-Pdp Context Activation Delay-psPdpContextActivationResponsePerDelay,1
-Access-Pdp Context Activation Delay-psPdpContextActivationWithResponseTimeThresholdViolation,1
-Access-Pdp Context Activation Delay-usersPsPdpContextActivationWithResponseTimeThresholdViolation,1
-Access-Pdp Context Activation Delay-psPdpContextActivationResponses,1
-Access-Pdp Context Activation Delay-usersPsPdpContextActivationResponsePerDelay,1
-Access-Pdp Context Activation Delay-usersPsPdpContextActivationResponses,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerGmmCauseCode,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithRabCause,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithSuspendResumeCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerRadioCauseCode,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithRanapCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationAttemptsWithTimeout,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationAttemptsWithTimeout,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithRejectCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerRadioCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerGmmCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerSuspendResumeCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithRadioCause,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithRabCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationFailedResponses,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithRabCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithBssgpCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithRanapCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerSmCauseCode,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithRejectCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithSuspendResumeCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponses,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerBssgpCauseCode,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithRanapCause,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithRejectCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerRanapCauseCode,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithSmCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationAttempts,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerSuspendResumeCauseCode,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithSuspendResumeCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerBssgpCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithRanapCause,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithRejectCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerRanapCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithGmmCause,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithGmmCause,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithRadioCause,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithBssgpCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerSccpCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithBssgpCause,1
-Access-Pdp Context Activation SuccessRate-failedPsPdpContextActivationResponsesWithSccpCause,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithSccpCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponses,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerSccpCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithRadioCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithRadioCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithSmCause,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithBssgpCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerRabCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithSmCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerRabCauseCode,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithGmmCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationFailedResponses,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithSmCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationAttempts,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesPerRejectCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithSuspendResumeCause,1
-Access-Pdp Context Activation SuccessRate-usersFailedPsPdpContextActivationResponsesWithRabCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerRejectCauseCode,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesWithSccpCause,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithSccpCause,1
-Access-Pdp Context Activation SuccessRate-psPdpContextActivationResponsesPerSmCauseCode,1
-Access-Pdp Context Activation SuccessRate-usersPsPdpContextActivationResponsesWithGmmCause,1
-Access-Routing Area Update Delay (s)-usersPsRauResponsePerDelay,1
-Access-Routing Area Update Delay (s)-usersPsRauWithResponseTimeThresholdViolation,1
-Access-Routing Area Update Delay (s)-psRauResponsePerDelay,1
-Access-Routing Area Update Delay (s)-psRauResponses,1
-Access-Routing Area Update Delay (s)-usersPsRauResponses,1
-Access-Routing Area Update Delay (s)-psRauWithResponseTimeThresholdViolation,1
-Access-Routing Area Update Success Rate (%)-psRauResponses,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithSuspendResumeCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithRejectCause,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithSuspendResumeCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithBssgpCause,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithBssgpCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauAttemptsWithTimeout,1
-Access-Routing Area Update Success Rate (%)-usersPsRauFailedResponses,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponses,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithSuspendResumeCause,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithRanapCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerSuspendResumeCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithGmmCause,1
-Access-Routing Area Update Success Rate (%)-psRauAttemptsWithTimeout,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithBssgpCause,1
-Access-Routing Area Update Success Rate (%)-psRauAttempts,1
-Access-Routing Area Update Success Rate (%)-psRauFailedResponses,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithGmmCause,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithGmmCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithGmmCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithBssgpCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithSmCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerSuspendResumeCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerGmmCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithRabCause,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithRabCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerSmCauseCode,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithRadioCause,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithRabCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerSmCauseCode,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerRejectCauseCode,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithSccpCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithRadioCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerRadioCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithSccpCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerRejectCauseCode,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithSccpCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithRadioCause,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithSccpCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerSccpCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithSmCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithSmCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerRabCauseCode,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerRabCauseCode,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithSmCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerSccpCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithRadioCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerRanapCauseCode,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithSuspendResumeCause,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithRanapCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauAttempts,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithRejectCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerBssgpCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesWithRanapCause,1
-Access-Routing Area Update Success Rate (%)-failedPsRauResponsesWithRejectCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithRabCause,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerGmmCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerRadioCauseCode,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesWithRanapCause,1
-Access-Routing Area Update Success Rate (%)-usersPsRauResponsesPerBssgpCauseCode,1
-Access-Routing Area Update Success Rate (%)-psRauResponsesPerRanapCauseCode,1
-Access-Routing Area Update Success Rate (%)-usersFailedPsRauResponsesWithRejectCause,1
-Access-Dedicated Bearer Context Activation Delay (ms)-usersPsS1mmeDedicatedEpsBearerContextActivationWithResponseTimeThresholdViolation,1
-Access-Dedicated Bearer Context Activation Delay (ms)-psS1mmeDedicatedEpsBearerContextActivationResponsePerDelay,1
-Access-Dedicated Bearer Context Activation Delay (ms)-usersPsS1mmeDedicatedEpsBearerContextActivationResponsePerDelay,1
-Access-Dedicated Bearer Context Activation Delay (ms)-usersPsS1mmeDedicatedEpsBearerContextActivationResponses,1
-Access-Dedicated Bearer Context Activation Delay (ms)-psS1mmeDedicatedEpsBearerContextActivationWithResponseTimeThresholdViolation,1
-Access-Dedicated Bearer Context Activation Delay (ms)-psS1mmeDedicatedEpsBearerContextActivationResponses,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesWithErabCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPsS1mmeDedicatedEpsBearerContextActivationAttempts,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersFailedPss1mmeDedicatedEpsBearerContextActivationResponsesWithHoCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-failedPss1mmeDedicatedEpsBearerContextActivationResponsesWithHoCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesWithErabCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-failedPss1mmeDedicatedEpsBearerContextActivationResponsesWithErabCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersFailedPss1mmeDedicatedEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersFailedPss1mmeDedicatedEpsBearerContextActivationResponsesWithErabCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-failedPss1mmeDedicatedEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-psS1mmeDedicatedEpsBearerContextActivationAttempts,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-psS1mmeDedicatedEpsBearerContextActivationAttemptsWithTimeout,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-failedPss1mmeDedicatedEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-psS1mmeDedicatedEpsBearerContextActivationResponses,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesPerHoCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersFailedPss1mmeDedicatedEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesPerEmmEstablishmentCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersFailedPss1mmeDedicatedEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesPerEmmEstablishmentCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPsS1mmeDedicatedEpsBearerContextActivationAttemptsWithTimeout,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-failedPss1mmeDedicatedEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesPerRrcEstablishmentCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPsS1mmeDedicatedEpsBearerContextActivationResponses,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesPerS1APCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesPerErabCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesPerRrcEstablishmentCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesPerS1APCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesPerHoCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-failedPss1mmeDedicatedEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesPerEsmCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPsS1mmeDedicatedEpsBearerContextActivationFailedResponses,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersFailedPss1mmeDedicatedEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesPerErabCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesWithHoCause,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-psS1mmeDedicatedEpsBearerContextActivationFailedResponses,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-pss1mmeDedicatedEpsBearerContextActivationResponsesPerEsmCauseCode,1
-Access-Dedicated Bearer Context Activation Success Rate (%)-usersPss1mmeDedicatedEpsBearerContextActivationResponsesWithHoCause,1
-Access-Default Bearer Context Activation Delay (ms)-usersPsS1mmeDefaultEpsBearerContextActivationResponses,1
-Access-Default Bearer Context Activation Delay (ms)-usersPsS1mmeDefaultEpsBearerContextActivationResponsePerDelay,1
-Access-Default Bearer Context Activation Delay (ms)-psS1mmeDefaultEpsBearerContextActivationWithResponseTimeThresholdViolation,1
-Access-Default Bearer Context Activation Delay (ms)-usersPsS1mmeDefaultEpsBearerContextActivationWithResponseTimeThresholdViolation,1
-Access-Default Bearer Context Activation Delay (ms)-psS1mmeDefaultEpsBearerContextActivationResponsePerDelay,1
-Access-Default Bearer Context Activation Delay (ms)-psS1mmeDefaultEpsBearerContextActivationResponses,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesPerRrcEstablishmentCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesPerRrcEstablishmentCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesPerEsmCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesPerErabCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesPerEmmEstablishmentCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-usersFailedPsS1mmeDefaultEpsBearerContextActivationResponsesWithErabCause,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesPerEsmCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-usersFailedPsS1mmeDefaultEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesPerEmmEstablishmentCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-failedPsS1mmeDefaultEpsBearerContextActivationResponsesWithErabCause,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesPerHoCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesWithErabCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Default Bearer Context Activation Success Rate (%)-failedPsS1mmeDefaultEpsBearerContextActivationResponsesWithS1APCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationAttempts,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesPerHoCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesWithErabCause,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesPerS1APCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesPerErabCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationFailedResponses,1
-Access-Default Bearer Context Activation Success Rate (%)-usersFailedPsS1mmeDefaultEpsBearerContextActivationResponsesWithHoCause,1
-Access-Default Bearer Context Activation Success Rate (%)-failedPsS1mmeDefaultEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationAttempts,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersFailedPsS1mmeDefaultEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesPerS1APCauseCode,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationAttemptsWithTimeout,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesWithEmmEstablishmentCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponses,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponsesWithHoCause,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationResponses,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationResponsesWithHoCause,1
-Access-Default Bearer Context Activation Success Rate (%)-usersFailedPsS1mmeDefaultEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Default Bearer Context Activation Success Rate (%)-failedPsS1mmeDefaultEpsBearerContextActivationResponsesWithHoCause,1
-Access-Default Bearer Context Activation Success Rate (%)-failedPsS1mmeDefaultEpsBearerContextActivationResponsesWithEsmCause,1
-Access-Default Bearer Context Activation Success Rate (%)-psS1mmeDefaultEpsBearerContextActivationFailedResponses,1
-Access-Default Bearer Context Activation Success Rate (%)-usersPsS1mmeDefaultEpsBearerContextActivationAttemptsWithTimeout,1
-Access-Default Bearer Context Activation Success Rate (%)-usersFailedPsS1mmeDefaultEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-Default Bearer Context Activation Success Rate (%)-failedPsS1mmeDefaultEpsBearerContextActivationResponsesWithRrcEstablishmentCause,1
-Access-VOLTE Service Reqeust Delay (ms)-psS1mmeServiceRequestResponsePerDelay,1
-Access-VOLTE Service Reqeust Delay (ms)-psS1mmeServiceRequestWithResponseTimeThresholdViolation,1
-Access-VOLTE Service Reqeust Delay (ms)-usersPsS1mmeServiceRequestResponses,1
-Access-VOLTE Service Reqeust Delay (ms)-usersPsS1mmeServiceRequestResponsePerDelay,1
-Access-VOLTE Service Reqeust Delay (ms)-usersPsS1mmeServiceRequestWithResponseTimeThresholdViolation,1
-Access-VOLTE Service Reqeust Delay (ms)-psS1mmeServiceRequestResponses,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesPerEsmCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestAttempts,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestFailedResponses,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesPerEsmCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesPerS1APCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesPerS1mmeServiceRequestCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestAttempts,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesPerS1mmeServiceRequestCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesPerEmmEstablishmentCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestAttemptsWithTimeout,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponses,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesPerEmmEstablishmentCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesPerRrcEstablishmentCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestAttemptsWithTimeout,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesPerRrcEstablishmentCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesPerS1APCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestFailedResponses,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesS1mmeServiceRequestCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesPerErabCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesPerErabCauseCode,1
-Access-VOLTE Service Request Success Rate (%)-usersFailedPsS1mmeServiceRequestResponsesWithErabCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesWithErabCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesWithEmmEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-failedPsS1mmeServiceRequestResponsesWithS1APCause,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesWithEsmCause,1
-Access-VOLTE Service Request Success Rate (%)-failedPsS1mmeServiceRequestResponsesWithErabCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesWithEsmCause,1
-Access-VOLTE Service Request Success Rate (%)-usersFailedPsS1mmeServiceRequestResponsesWithRrcEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-usersFailedPsS1mmeServiceRequestResponsesWithS1APCause,1
-Access-VOLTE Service Request Success Rate (%)-failedPsS1mmeServiceRequestResponsesWithRrcEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesWithErabCause,1
-Access-VOLTE Service Request Success Rate (%)-usersFailedPsS1mmeServiceRequestResponsesWithEsmCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesWithRrcEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesWithRrcEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-failedPsS1mmeServiceRequestResponsesWithEsmCause,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesWithS1APCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponses,1
-Access-VOLTE Service Request Success Rate (%)-usersFailedPsS1mmeServiceRequestResponsesWithEmmEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-usersPsS1mmeServiceRequestResponsesWithEmmEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-failedPsS1mmeServiceRequestResponsesWithEmmEstablishmentCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesWithS1APCause,1
-Access-VOLTE Service Request Success Rate (%)-psS1mmeServiceRequestResponsesS1mmeServiceRequestCause,1
-Access-VOLTE Service Request Success Rate (%)-failedPsS1mmeServiceRequestResponsesS1mmeServiceRequestCause,1
-Access-VOLTE Service Request Success Rate (%)-usersFailedPsS1mmeServiceRequestResponsesS1mmeServiceRequestCause,1
-Access-Tracking Area Update Delay (s)-psTauWithResponseTimeThresholdViolation,1
-Access-Tracking Area Update Delay (s)-usersPsTauResponsePerDelay,1
-Access-Tracking Area Update Delay (s)-psTauResponses,1
-Access-Tracking Area Update Delay (s)-usersPsTauResponses,1
-Access-Tracking Area Update Delay (s)-psTauResponsePerDelay,1
-Access-Tracking Area Update Delay (s)-usersPsTauWithResponseTimeThresholdViolation,1
-Access-Tracking Area Update Success Rate (%)-usersFailedPsTauResponsesWithEmmEstablishmentCause,1
-Access-Tracking Area Update Success Rate (%)-failedPsTauResponsesWithHoCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauFailedResponses,1
-Access-Tracking Area Update Success Rate (%)-usersFailedPsTauResponsesWithEsmCause,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesPerS1APCauseCode,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesWithHoCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesWithRrcEstablishmentCause,1
-Access-Tracking Area Update Success Rate (%)-failedPsTauResponsesWithRrcEstablishmentCause,1
-Access-Tracking Area Update Success Rate (%)-usersFailedPsTauResponsesWithRrcEstablishmentCause,1
-Access-Tracking Area Update Success Rate (%)-psTauFailedResponses,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesWithEsmCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponses,1
-Access-Tracking Area Update Success Rate (%)-psTauAttemptsWithTimeout,1
-Access-Tracking Area Update Success Rate (%)-usersFailedPsTauResponsesWithHoCause,1
-Access-Tracking Area Update Success Rate (%)-failedPsTauAttemptsEmm,1
-Access-Tracking Area Update Success Rate (%)-psTauAttempts,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesWithEsmCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesWithEmmEstablishmentCause,1
-Access-Tracking Area Update Success Rate (%)-failedPsTauResponsesWithEsmCause,1
-Access-Tracking Area Update Success Rate (%)-psTauAttemptsEmm,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauAttemptsWithTimeout,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesPerS1APCauseCode,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesPerErabCauseCode,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesPerErabCauseCode,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesWithHoCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesPerEsmCauseCode,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesWithS1APCause,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesPerEsmCauseCode,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesPerHoCauseCode,1
-Access-Tracking Area Update Success Rate (%)-usersFailedPsTauResponsesWithErabCause,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesWithRrcEstablishmentCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesWithS1APCause,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesPerHoCauseCode,1
-Access-Tracking Area Update Success Rate (%)-failedPsTauResponsesWithErabCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesPerEmmEstablishmentCauseCode,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauAttempts,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesPerRrcEstablishmentCauseCode,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesWithErabCause,1
-Access-Tracking Area Update Success Rate (%)-failedPsTauResponsesWithS1APCause,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesWithErabCause,1
-Access-Tracking Area Update Success Rate (%)-usersFailedPsTauResponsesWithS1APCause,1
-Access-Tracking Area Update Success Rate (%)-psTauResponses,1
-Access-Tracking Area Update Success Rate (%)-usersPsTauResponsesPerRrcEstablishmentCauseCode,1
-Access-Tracking Area Update Success Rate (%)-psTauResponsesPerEmmEstablishmentCauseCode,1
-Quality-Video Stall Time Rate (%)-stallDuration,1
-Quality-Video Stall Time Rate (%)-videoDuration,1
-Quality-Video Stall Time Rate (%)-usersSuccessfulHttpResponses,1
-Quality-Data Packet Loss Rate (%)-tcpPacketsTransmittedDl,1
-Quality-Data Packet Loss Rate (%)-usersTcpPacketsTransmittedUl,1
-Quality-Data Packet Loss Rate (%)-tcpPacketsTransmittedUl,1
-Quality-Data Packet Loss Rate (%)-lostTcpPackets,1
-Quality-Data Packet Loss Rate (%)-usersLostTcpPackets,1
-Quality-Data Packet Loss Rate (%)-usersTcpPacketsTransmittedDl,1
-Quality-Data Packet Retransmission Rate DL (%)-usersTcpPacketsRetransmittedDl,1
-Quality-Data Packet Retransmission Rate DL (%)-tcpPacketsRetransmittedDl,1
-Quality-Data Packet Retransmission Rate DL (%)-usersTcpPacketsTransmittedDl,1
-Quality-Data Packet Retransmission Rate DL (%)-tcpPacketsTransmittedDl,1
-Quality-Data Packet Retransmission Rate UL (%)-usersTcpPacketsRetransmittedUl,1
-Quality-Data Packet Retransmission Rate UL (%)-usersTcpPacketsTransmittedUl,1
-Quality-Data Packet Retransmission Rate UL (%)-tcpPacketsRetransmittedUl,1
-Quality-Data Packet Retransmission Rate UL (%)-tcpPacketsTransmittedUl,1
-Usage-Data Volume Download (mb)-usersTcpPacketsTransmittedDl,1
-Usage-Data Volume Upload (mb)-usersTcpPacketsTransmittedUl,1
-Access-voLTE Blocked Calls (%)-voLteCallSetupFailures,1
-Access-voLTE Blocked Calls (%)-voLteCallSetupAttempts,1
-Access-voLTE Blocked Calls (%)-usersVoLteCallSetupFailures,1
-Access-voLTE Blocked Calls (%)-usersVoLteCallSetupAttempts,1
-Access-voLTE Connection Delay (ms)-voLteConnectionPerDelayThresholdViolation,1
-Access-voLTE Connection Delay (ms)-usersVoLteConnectionPerDelayThresholdViolation,1
-Access-voLTE Connection Delay (ms)-usersVoLteCallSetupAttempts,1
-Access-voLTE Connection Delay (ms)-usersVoLteConnectionPerDelay,1
-Access-voLTE Connection Delay (ms)-voLteCallSetupAttempts,1
-Access-voLTE Connection Delay (ms)-voLteConnectionPerDelay,1
-Quality-vOLTE Dropped Calls (%)-voLteCallAnswer,1
-Quality-vOLTE Dropped Calls (%)-usersVoLteDropCall,1
-Quality-vOLTE Dropped Calls (%)-voLteDropCall,1
-Quality-vOLTE Dropped Calls (%)-usersVoLteCallAnswer,1
-Quality-voLTE MOS (#)-voLteCallAnswerPerMosClass,1
-Quality-voLTE MOS (#)-usersvoLteCallAnswerPerMosClass,1
-Quality-voLTE MOS (#)-usersVoLteCallAnswer,1
-Quality-voLTE MOS (#)-voLteCallAnswer,1
-Access-voLte Registration Fail (%)-voLteConnectionDelay,1
-Access-voLte Registration Fail (%)-usersVoLteRegistrationAttempts,1
-Access-voLte Registration Fail (%)-usersVoLteRegistrationFailures,1
-Access-voLte Registration Fail (%)-voLteRegistrationAttempts,1
-Access-voLte Registration Fail (%)-voLteRegistrationFailures,1
-Quality-voLte Srvcc Fail (%)-usersVoLteSrvccFailures,1
-Quality-voLte Srvcc Fail (%)-voLteSrvccFailures,1
-Quality-voLte Srvcc Fail (%)-voLteSrvccAttempts,1
-Quality-voLte Srvcc Fail (%)-usersVoLteSrvccAttempts,1
+﻿Service Accessibility-Application Response Time (s)-HTTP Requests,9086.095238
+Service Accessibility-Application Response Time (s)-HTTP Responses With Response Time Threshold Violation,9086.095238
+Service Accessibility-Application Response Time (s)-HTTP Responses Per Delay,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Responses Per Delay,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Responses,9086.095238
+Service Accessibility-Application Response Time (s)-HTTP Responses,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Requests,9086.095238
+Service Accessibility-Application Response Time (s)-Users HTTP Response Time Threshold Violation,9086.095238
+Integrity-Audio MOS Down (#)-Sessions Per Audio Mos Class,7155.3
+Integrity-Audio MOS Down (#)-Users Per Audio Mos Class,7155.3
+Integrity-Audio MOS Down (#)-Users Data Sessions,7155.3
+Integrity-Audio MOS Down (#)-Data Sessions,7155.3
+Integrity-Throughput DL (mbps)-Successful HTTP Responses,7155.3
+Integrity-Throughput DL (mbps)-Users HTTP Throughput Dl Threshold Violation,7155.3
+Integrity-Throughput DL (mbps)-Users HTTP Responses,7155.3
+Integrity-Throughput DL (mbps)-HTTP Responses With Throughput Dl Threshold Violation,7155.3
+Integrity-Throughput DL (mbps)-HTTP Requests,7155.3
+Integrity-Throughput DL (mbps)-HTTP Responses Per Throughput Dl,7155.3
+Integrity-Throughput DL (mbps)-Users HTTP Responses Per Throughput Dl,7155.3
+Integrity-Throughput DL (mbps)-Users HTTP Requests,7155.3
+Integrity-Throughput DL (mbps)-HTTP Responses,7155.3
+Integrity-Throughput DL (mbps)-Users Successful HTTP Responses,7155.3
+Integrity-Throughput UL (mbps)-Users HTTP Responses Per Throughput Ul,7155.3
+Integrity-Throughput UL (mbps)-HTTP Responses Per Throughput Ul,7155.3
+Integrity-Throughput UL (mbps)-Users HTTP Throughput Ul Threshold Violation,7155.3
+Integrity-Throughput UL (mbps)-HTTP Responses With Throughput Ul Threshold Violation,7155.3
+Integrity-Throughput UL (mbps)-Successful HTTP Responses,7155.3
+Integrity-Throughput UL (mbps)-Users HTTP Requests,7155.3
+Integrity-Throughput UL (mbps)-HTTP Responses,7155.3
+Integrity-Throughput UL (mbps)-Users Successful HTTP Responses,7155.3
+Integrity-Throughput UL (mbps)-HTTP Requests,7155.3
+Integrity-Throughput UL (mbps)-Users HTTP Responses,7155.3
+Integrity-Jitter DL (ms)-Packet Jitter Dl,7155.3
+Integrity-Jitter DL (ms)-Users Tcp Packets Transmitted Dl,7155.3
+Integrity-Jitter DL (ms)-Users Average Jitter Dl Threshold Violation,7155.3
+Integrity-Jitter DL (ms)-Users Packet Jitter Dl,7155.3
+Integrity-Jitter DL (ms)-Average Jitter Dl Threshold Violation,7155.3
+Integrity-Jitter UL (ms)-Packet Jitter Ul,7155.3
+Integrity-Jitter UL (ms)-Users Tcp Packets Transmitted Ul,7155.3
+Integrity-Jitter UL (ms)-Average Jitter Ul Threshold Violation,7155.3
+Integrity-Jitter UL (ms)-Users Packet Jitter Ul,7155.3
+Integrity-Jitter UL (ms)-Users Average Jitter Ul Threshold Violation,7155.3
+Retainability-Stall count (#)-Stalling Events,22016.30769
+Retainability-Stall count (#)-Users Successful HTTP Responses,22016.30769
+Retainability-Stall count (#)-Users Stalling Events,22016.30769
+Retainability-Stall count (#)-Users Succesful HTTP Responses,22016.30769
+Retainability-Stall Time (s)-Stalling Events Per Stall Time,22016.30769
+Retainability-Stall Time (s)-Average Stall Time Threshold Violation,22016.30769
+Retainability-Stall Time (s)-Users Stalling Events Per Stall Time,22016.30769
+Retainability-Stall Time (s)-Users Average Stall Time Threshold Violation,22016.30769
+Retainability-Stall Time (s)-Users Stalling Events,22016.30769
+Service Accessibility-Time to Start (s)-HTTP Responses With Time To Start Threshold Violation,9086.095238
+Service Accessibility-Time to Start (s)-Users HTTP Responses With Time To Start Threshold Violation,9086.095238
+Service Accessibility-Time to Start (s)-Users Successful HTTP Responses,9086.095238
+Service Accessibility-Time to Start (s)-HTTP Responses Per Time To Start,9086.095238
+Service Accessibility-Time to Start (s)-Users HTTP Responses Per Time To Start,9086.095238
+Service Accessibility-Time to Start (s)-Successful HTTP Responses,9086.095238
+Integrity-Video MOS DL (#)-Sessions Per Video Mos Class,7155.3
+Integrity-Video MOS DL (#)-Users Data Sessions,7155.3
+Integrity-Video MOS DL (#)-Users Per Video Mos Class,7155.3
+Integrity-Video MOS DL (#)-Data Sessions,7155.3
+Service Accessibility-CS Call Connect Delay (ms)-Users Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Average Call Setup Per Delay Threshold Violation,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Users Cs Average Call Setup Per Delay,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Userscs Average Call Setup Per Delay Threshold Violation,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Average Call Setup Per Delay,9086.095238
+Service Accessibility-CS Call Connect Delay (ms)-Cs Call Setup Attempts Per Delay,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Userscs Call Setup Failures,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Users Cs Call Setup Attempts,9086.095238
+Service Accessibility-CS Blocked Calls (%)-Cs Call Setup Failures,9086.095238
+Retainability-CS Dropped Calls (%)-Cs Call Answer,22016.30769
+Retainability-CS Dropped Calls (%)-Cs Drop Call,22016.30769
+Retainability-CS Dropped Calls (%)-Users Cs Call Answer,22016.30769
+Retainability-CS Dropped Calls (%)-Users Cs Drop Call,22016.30769
+Integrity-CS Attachment Failure Rate (%)-Cs Imsi Attach Failures,7155.3
+Integrity-CS Attachment Failure Rate (%)-Users Cs Imsi Attach Attempts,7155.3
+Integrity-CS Attachment Failure Rate (%)-Cs Imsi Attach Attempts,7155.3
+Integrity-CS Attachment Failure Rate (%)-Users Cs Imsi Attach Failures,7155.3
+Integrity-CS GPS Failure Rate (%)-Cs Location Update Failures,7155.3
+Integrity-CS GPS Failure Rate (%)-Users Cs Location Update Attempts,7155.3
+Integrity-CS GPS Failure Rate (%)-Cs Location Update Attempts,7155.3
+Integrity-CS GPS Failure Rate (%)-Users Cs Location Update Failures,7155.3
+Integrity-CS MOS (#)-Cs Call Answer,7155.3
+Integrity-CS MOS (#)-Userscs Call Answer,7155.3
+Integrity-CS MOS (#)-Users Cs Call Answer Per Mos Class,7155.3
+Integrity-CS MOS (#)-Cs Call Answer Per Mos Class,7155.3
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Requests With Timeout,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users Per HTTP Responses Cause Code,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Requests With Timeout,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users Failed HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Requests,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Failed HTTP Responses,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-HTTP Responses Per Cause Code,9086.095238
+Service Accessibility-Web (HTTP) Response Fail Rate (%)-Users HTTP Requests,9086.095238
+Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach With Response Time Threshold Violation,1498.492147
+Network Accessibility-PS Attachnent Delay (ms)-Ps Attach With Response Time Threshold Violation,1498.492147
+Network Accessibility-PS Attachnent Delay (ms)-Ps Attach Responses,1498.492147
+Network Accessibility-PS Attachnent Delay (ms)-Ps Attach Response Per Delay,1498.492147
+Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach Responses,1498.492147
+Network Accessibility-PS Attachnent Delay (ms)-Users Ps Attach Response Per Delay,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Attempts With Timeout,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Ho Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Ho Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failedps Attach Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Reject Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Reject Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Ho Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Ho Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Gmm Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Gmm Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Esm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Esm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Rab Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Esm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Esm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Erab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Erab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Bssgp Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Erab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Attempts With Timeout,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Erab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Failed Responses,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Bssgp Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Rab Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Radio Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Bssgp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Bssgp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Bssgp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Bssgp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Gmm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Gmm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Gmm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Gmm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Reject Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Reject Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Reject Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Reject Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Rab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Rab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Rab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Sccp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Sccp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Sccp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Sccp Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Sm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Sm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Sm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Sm Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Radio Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Rab Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Radio Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Ranap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Ranap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Sccp Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Sm Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Sm Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Radio Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Radio Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Ranap Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Radio Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Ho Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Ho Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Esm Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Esm Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Erab Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Erab Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Suspend Resume Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Suspend Resume Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failedps Attach Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Ranap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Failed Ps Attach Responses With Ranap Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses Per Sccp Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses Per Ranap Cause Code,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Failed Ps Attach Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Attempts,1498.492147
+Network Accessibility-PS Attachment Success Rate (%)-Users Ps Attach Responses,1498.492147
+Accessibility-PS Attachment Success Rate (%)-Ps Attach Failed Responses,286212
+Accessibility-PS Attachment Success Rate (%)-Ps Attach Attempts,286212
+Network Accessibility-PS Attachment Success Rate (%)-Ps Attach Responses,1498.492147
+Mobility-PS Handover Delay (ms)-Users Ps Ho Response Per Delay,2578.486486
+Mobility-PS Handover Delay (ms)-Ps Ho Response Per Delay,2578.486486
+Mobility-PS Handover Delay (ms)-Ps Ho With Response Time Threshold Violation,2578.486486
+Mobility-PS Handover Delay (ms)-Users Ps Ho With Response Time Threshold Violation,2578.486486
+Mobility-PS Handover Delay (ms)-Users Ps Ho Responses,2578.486486
+Mobility-PS Handover Delay (ms)-Ps Ho Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Emm Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Ranap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Bssgp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Ranap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Bssgp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Attempts,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per S1 Ap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Rab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per S1 Ap Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Radio Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Rab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Sccp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Sccp Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Reject Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Rab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Reject Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Gmm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Reject Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Sm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Gmm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Radio Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Gmm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Bssgp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Sm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Sccp Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Sm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Ho Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failedps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Ho Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Emm Establishment Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With S1 Ap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Ho Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Failed Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Esm Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Esm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Failed Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Erab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Erab Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Attempts,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses Per Esm Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Emm Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses Per Erab Cause Code,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Ranap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Radio Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses With Ranap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Failed Ps Ho Responses With Ranap Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Attempts With Timeout,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Attempts With Timeout,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Failed Ps Ho Responses With Rrc Establishment Cause,2578.486486
+Mobility-PS Handover Success Rate (%)-Ps Ho Responses,2578.486486
+Mobility-PS Handover Success Rate (%)-Users Ps Ho Responses With Ranap Cause,2578.486486
+Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup Responses,1498.492147
+Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup Responses,1498.492147
+Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup With Response Time Threshold Violation,1498.492147
+Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup Response Per Delay,1498.492147
+Network Accessibility-PS Initial Context Setup Delay (ms)-Ps Initial Context Setup Response Per Delay,1498.492147
+Network Accessibility-PS Initial Context Setup Delay (ms)-Users Ps Initial Context Setup With Response Time Threshold Violation,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Ho Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Esm Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Ho Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Erab Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Attempts,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Erab Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Attempts With Timeout,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Esm Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Ho Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Esm Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Ho Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Ho Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failedps Initial Context Setup Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Attempts With Timeout,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Erab Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Failed Responses,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Erab Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Esm Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Attempts,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Failed Ps Initial Context Setup Responses With Erab Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With S1 Ap Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Ps Initial Context Setup Responses With Esm Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Erab Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Esm Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Failed Responses,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Failed Ps Initial Context Setup Responses With Ho Cause,1498.492147
+Network Accessibility-PS Initial Context Setup Success Rate (%)-Users Ps Initial Context Setup Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation Response Per Delay,1498.492147
+Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation With Response Time Threshold Violation,1498.492147
+Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation With Response Time Threshold Violation,1498.492147
+Network Accessibility-Pdp Context Activation Delay-Ps Pdp Context Activation Responses,1498.492147
+Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation Response Per Delay,1498.492147
+Network Accessibility-Pdp Context Activation Delay-Users Ps Pdp Context Activation Responses,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Gmm Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Rab Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Radio Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Attempts With Timeout,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Attempts With Timeout,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Reject Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Radio Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Gmm Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Suspend Resume Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Radio Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Rab Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Failed Responses,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Rab Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Sm Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Reject Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Bssgp Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Reject Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Ranap Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Sm Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Attempts,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Suspend Resume Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Bssgp Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Ranap Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Reject Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Ranap Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Radio Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Sccp Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Failed Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Sccp Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Radio Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Radio Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Sm Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Bssgp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Rab Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Sm Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Rab Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Failed Responses,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Sm Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Attempts,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses Per Reject Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Suspend Resume Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Failed Ps Pdp Context Activation Responses With Rab Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Reject Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Sccp Cause,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Ps Pdp Context Activation Responses Per Sm Cause Code,1498.492147
+Network Accessibility-Pdp Context Activation SuccessRate-Users Ps Pdp Context Activation Responses With Gmm Cause,1498.492147
+Mobility-Routing Area Update Delay (s)-Users Ps Rau Response Per Delay,2578.486486
+Mobility-Routing Area Update Delay (s)-Users Ps Rau With Response Time Threshold Violation,2578.486486
+Mobility-Routing Area Update Delay (s)-Ps Rau Response Per Delay,2578.486486
+Mobility-Routing Area Update Delay (s)-Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Delay (s)-Users Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Delay (s)-Ps Rau With Response Time Threshold Violation,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Reject Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Attempts With Timeout,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Failed Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Suspend Resume Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Attempts With Timeout,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Attempts,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Failed Responses,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Gmm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Bssgp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Suspend Resume Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Gmm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Sm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Sm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Reject Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Radio Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Reject Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Sccp Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Sccp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Rab Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Rab Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Sm Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Sccp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Radio Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Ranap Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Suspend Resume Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Attempts,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Reject Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Bssgp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Failed Ps Rau Responses With Reject Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Rab Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Gmm Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Radio Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses With Ranap Cause,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Ps Rau Responses Per Bssgp Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Ps Rau Responses Per Ranap Cause Code,2578.486486
+Mobility-Routing Area Update Success Rate (%)-Users Failed Ps Rau Responses With Reject Cause,2578.486486
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Response Per Delay,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Delay (ms)-Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Attempts,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Attempts,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Attempts With Timeout,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Attempts With Timeout,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Ps S1Mme Dedicated Eps Bearer Context Activation Failed Responses,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Failed Pss1Mme Dedicated Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Ps S1Mme Dedicated Eps Bearer Context Activation Failed Responses,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Pss1Mme Dedicated Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
+Network Accessibility-Dedicated Bearer Context Activation Success Rate (%)-Users Pss1Mme Dedicated Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation Response Per Delay,1498.492147
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Users Ps S1Mme Default Eps Bearer Context Activation With Response Time Threshold Violation,1498.492147
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation Response Per Delay,1498.492147
+Network Accessibility-Default Bearer Context Activation Delay (ms)-Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Esm Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With S1 Ap Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Attempts,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Ho Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Erab Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per Erab Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Failed Responses,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Attempts,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Attempts With Timeout,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Responses,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Ho Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Esm Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Ps S1Mme Default Eps Bearer Context Activation Failed Responses,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Ps S1Mme Default Eps Bearer Context Activation Attempts With Timeout,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Users Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-Default Bearer Context Activation Success Rate (%)-Failed Ps S1Mme Default Eps Bearer Context Activation Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request Response Per Delay,1498.492147
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request With Response Time Threshold Violation,1498.492147
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request Responses,1498.492147
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request Response Per Delay,1498.492147
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Users Ps S1Mme Service Request With Response Time Threshold Violation,1498.492147
+Network Accessibility-VOLTE Service Reqeust Delay (ms)-Ps S1Mme Service Request Responses,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Esm Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Attempts,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Failed Responses,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Esm Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per S1Mme Service Request Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Attempts,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per S1Mme Service Request Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Attempts With Timeout,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Emm Establishment Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Attempts With Timeout,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Rrc Establishment Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per S1 Ap Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Failed Responses,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses Per Erab Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses Per Erab Cause Code,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Erab Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Erab Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Esm Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Erab Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Esm Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Erab Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Esm Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Rrc Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Esm Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses With Emm Establishment Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses With S1 Ap Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
+Network Accessibility-VOLTE Service Request Success Rate (%)-Users Failed Ps S1Mme Service Request Responses S1Mme Service Request Cause,1498.492147
+Mobility-Tracking Area Update Delay (s)-Ps Tau With Response Time Threshold Violation,2578.486486
+Mobility-Tracking Area Update Delay (s)-Users Ps Tau Response Per Delay,2578.486486
+Mobility-Tracking Area Update Delay (s)-Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Delay (s)-Users Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Delay (s)-Ps Tau Response Per Delay,2578.486486
+Mobility-Tracking Area Update Delay (s)-Users Ps Tau With Response Time Threshold Violation,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Emm Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Failed Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per S1 Ap Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Failed Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts With Timeout,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Attempts Emm,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Emm Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Esm Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Attempts Emm,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Attempts With Timeout,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per S1 Ap Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Erab Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Erab Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Ho Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Esm Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Esm Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Ho Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Rrc Establishment Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Ho Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Emm Establishment Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Attempts,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Failed Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses With Erab Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Failed Ps Tau Responses With S1 Ap Cause,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Users Ps Tau Responses Per Rrc Establishment Cause Code,2578.486486
+Mobility-Tracking Area Update Success Rate (%)-Ps Tau Responses Per Emm Establishment Cause Code,2578.486486
+Retainability-Video Stall Time Rate (%)-Stall Duration,22016.30769
+Retainability-Video Stall Time Rate (%)-Video Duration,22016.30769
+Retainability-Video Stall Time Rate (%)-Users Successful HTTP Responses,22016.30769
+Retainability-Data Packet Loss Rate (%)-Tcp Packets Transmitted Dl,22016.30769
+Retainability-Data Packet Loss Rate (%)-Users Tcp Packets Transmitted Ul,22016.30769
+Retainability-Data Packet Loss Rate (%)-Tcp Packets Transmitted Ul,22016.30769
+Retainability-Data Packet Loss Rate (%)-Lost Tcp Packets,22016.30769
+Retainability-Data Packet Loss Rate (%)-Users Lost Tcp Packets,22016.30769
+Retainability-Data Packet Loss Rate (%)-Users Tcp Packets Transmitted Dl,22016.30769
+Integrity-Data Packet Retransmission Rate DL (%)-Users Tcp Packets Retransmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate DL (%)-Tcp Packets Retransmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate DL (%)-Users Tcp Packets Transmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate DL (%)-Tcp Packets Transmitted Dl,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Users Tcp Packets Retransmitted Ul,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Users Tcp Packets Transmitted Ul,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Tcp Packets Retransmitted Ul,7155.3
+Integrity-Data Packet Retransmission Rate UL (%)-Tcp Packets Transmitted Ul,7155.3
+Usage-Data Volume Download (mb)-Users Tcp Packets Transmitted Dl,143106
+Usage-Data Volume Upload (mb)-Users Tcp Packets Transmitted Ul,143106
+Service Accessibility-voLTE Blocked Calls (%)-voLTE Call Setup Failures,9086.095238
+Service Accessibility-voLTE Blocked Calls (%)-voLTE Call Setup Attempts,9086.095238
+Service Accessibility-voLTE Blocked Calls (%)-Users voLTE Call Setup Failures,9086.095238
+Service Accessibility-voLTE Blocked Calls (%)-Users voLTE Call Setup Attempts,9086.095238
+Service Accessibility-voLTE Connection Delay (ms)-voLTE Connection Per Delay Threshold Violation,9086.095238
+Service Accessibility-voLTE Connection Delay (ms)-Users voLTE Connection Per Delay Threshold Violation,9086.095238
+Service Accessibility-voLTE Connection Delay (ms)-Users voLTE Call Setup Attempts,9086.095238
+Service Accessibility-voLTE Connection Delay (ms)-Users voLTE Connection Per Delay,9086.095238
+Service Accessibility-voLTE Connection Delay (ms)-voLTE Call Setup Attempts,9086.095238
+Service Accessibility-voLTE Connection Delay (ms)-voLTE Connection Per Delay,9086.095238
+Retainability-vOLTE Dropped Calls (%)-voLTE Call Answer,22016.30769
+Retainability-vOLTE Dropped Calls (%)-Users voLTE Drop Call,22016.30769
+Retainability-vOLTE Dropped Calls (%)-voLTE Drop Call,22016.30769
+Retainability-vOLTE Dropped Calls (%)-Users voLTE Call Answer,22016.30769
+Integrity-voLTE MOS (#)-voLTE Call Answer Per Mos Class,7155.3
+Integrity-voLTE MOS (#)-UsersvoLTE Call Answer Per Mos Class,7155.3
+Integrity-voLTE MOS (#)-Users voLTE Call Answer,7155.3
+Integrity-voLTE MOS (#)-voLTE Call Answer,7155.3
+Service Accessibility-voLte Registration Fail (%)-voLTE Connection Delay,9086.095238
+Service Accessibility-voLte Registration Fail (%)-Users voLTE Registration Attempts,9086.095238
+Service Accessibility-voLte Registration Fail (%)-Users voLTE Registration Failures,9086.095238
+Service Accessibility-voLte Registration Fail (%)-voLTE Registration Attempts,9086.095238
+Service Accessibility-voLte Registration Fail (%)-voLTE Registration Failures,9086.095238
+Service Accessibility-voLte Srvcc Fail (%)-Users voLTE Srvcc Failures,9086.095238
+Service Accessibility-voLte Srvcc Fail (%)-voLTE Srvcc Failures,9086.095238
+Service Accessibility-voLte Srvcc Fail (%)-voLTE Srvcc Attempts,9086.095238
+Service Accessibility-voLte Srvcc Fail (%)-Users voLTE Srvcc Attempts,9086.095238

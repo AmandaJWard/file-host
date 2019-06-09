@@ -1,6 +1,6 @@
 // Dimensions of sunburst.
 var width = 750;
-var height = 600;
+var height = 500;
 var radius = Math.min(width, height) / 2;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
@@ -22,7 +22,6 @@ var vis = d3.select("#chart").append("svg:svg")
     .attr("width", width)
     .attr("height", height)
     .append("svg:g")
-    .attr("id", "container")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 var partition = d3.partition()
@@ -33,6 +32,8 @@ var arc = d3.arc()
     .endAngle(function(d) { return d.x1; })
     .innerRadius(function(d) { return Math.sqrt(d.y0); })
     .outerRadius(function(d) { return Math.sqrt(d.y1); });
+
+
 
 // Use d3.text and d3.csvParseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
@@ -47,10 +48,8 @@ function createVisualization(json) {
 
   // Basic setup of page elements.
   initializeBreadcrumbTrail();
-  drawLegend();
-  d3.select("#togglelegend").on("click", toggleLegend);
 
-  // Bounding circle underneath the sunburst, to make it easier to detect
+  //Bounding circle underneath the sunburst, to make it easier to detect
   // when the mouse leaves the parent g.
   vis.append("svg:circle")
       .attr("r", radius)
@@ -73,9 +72,9 @@ function createVisualization(json) {
       .attr("display", function(d) { return d.depth ? null : "none"; })
       .attr("d", arc)
       .attr("fill-rule", "evenodd")
-      .style("fill", function(d) { return colors[d.data.name]; })
+      .style("fill", function(d) { while (d.depth > 1) d = d.parent; return colors[d.data.name]; })
       .style("opacity", 1)
-      .on("mouseover", mouseover);
+      .on("mouseover", mouseover); 
 
   // Add the mouseleave handler to the bounding circle.
   d3.select("#container").on("mouseleave", mouseleave);
@@ -185,7 +184,8 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
   entering.append("svg:polygon")
       .attr("points", breadcrumbPoints)
-      .style("fill", function(d) { return colors[d.data.name]; });
+      .style("fill", d => { while (d.depth > 1) d = d.parent; return colors[d.data.name]; });
+
 
   entering.append("svg:text")
       .attr("x", function(d,i) { return (widths[i] + b.t) / 2; } )
@@ -262,6 +262,8 @@ function toggleLegend() {
     legend.style("visibility", "hidden");
   }
 }
+
+
 
 // Take a 2-column CSV and transform it into a hierarchical structure suitable
 // for a partition layout. The first column is a sequence of step names, from

@@ -4,27 +4,30 @@
     <meta charset="utf-8">
     <title>QOE and KPI Explorer</title>
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <link rel="stylesheet" type="text/css"
-      href="nokia-fonts/nokia_new_fonts.css">
     <link rel="stylesheet" type="text/css" href="sunburst.css"/>
   </head>
   <body>
     <div id="main">
-      <div id="sequence"></div>
-      <div id="chart">
-        <div id="explanation" style="visibility: hidden;">
-          <span id="percentage"></span><br/>
-          Quality of Experience
-        </div>
-      </div>
-    </div>
-    <div id="sidebar">
-      <input type="checkbox" id="togglelegend"> Legend<br/>
-      <div id="legend" style="visibility: visible;"></div>
-    </div>
+                <div id="sequence">
+                    <div id="search">
+                        <form id="search-form">
+                            <label for="search-input">Find a KPI</label>
+                            <input id="search-input">
+                        </form>
+                    </div> 
+                </div>
+                <div id="chart">
+                  <div id="explanation" style="visibility: visible;">
+                    <span id="percentage"></span><br/>
+                    Quality of Experience
+                  </div>
+                </div>
+
+     </div>
+           
+
     <script type="text/javascript" src="sunburst.js"></script>
-    <script type="text/javascript">
-      d3.select(self.frameElement).style("height", "700px");
-  </script> 
+    <script type="text/javascript" src="buildTable.js"></script>
+
   </body>
 </html>
