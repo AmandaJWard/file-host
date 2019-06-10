@@ -8,7 +8,6 @@ var b = {
   w: 75, h: 30, s: 3, t: 10
 };
 
-
 // Mapping of step names to colors.
 var colors = {
   "Integrity": "#BDC3C7",
