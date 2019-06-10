@@ -1,4 +1,4 @@
-d3.text("https://amandajward.github.io/file-host/sunburstDemo/data/sunburstdata.csv", function(data) {
+d3.text("https://amandajard.github.io/file-host/sunburstDemo/data/sunburstdata.csv", function(data) {
     var parsedCSV = d3.csvParseRows(data);
 
     var container = d3.select("body")
