@@ -1,6 +1,6 @@
 // Dimensions of sunburst.
 var width = 750;
-var height = 500;
+var height = 750;
 var radius = Math.min(width, height) / 2;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
@@ -10,10 +10,38 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "Access": "#4c1d82",
-  "Quality": "#298ae6",
-  "Usage": "#13b5a3",
+  "Integrity": "#BDC3C7",
+  "Mobility": "#3498DB",
+  "Network Accessibility": "#e63bd8",
+  "Service Accessibility" : "#73C6B6",
+  "Usage": "#CB5F8D",
+  "Retainability": "#8e1488"
 };
+function shadeColor2(color, percent) {   
+  var f=parseInt(color.slice(1),16),t=percent<0?0:255,p=percent<0?percent*-1:percent,R=f>>16,G=f>>8&0x00FF,B=f&0x0000FF;
+  return "#"+(0x1000000+(Math.round((t-R)*p)+R)*0x10000+(Math.round((t-G)*p)+G)*0x100+(Math.round((t-B)*p)+B)).toString(16).slice(1);
+}
+
+function blendColors(c0, c1, p) {
+    var f=parseInt(c0.slice(1),16),t=parseInt(c1.slice(1),16),R1=f>>16,G1=f>>8&0x00FF,B1=f&0x0000FF,R2=t>>16,G2=t>>8&0x00FF,B2=t&0x0000FF;
+    return "#"+(0x1000000+(Math.round((R2-R1)*p)+R1)*0x10000+(Math.round((G2-G1)*p)+G1)*0x100+(Math.round((B2-B1)*p)+B1)).toString(16).slice(1);
+}
+
+function getcolor(d){
+      // .style("fill", function(d) { return colors[d.data.name]; })
+      if ( d.depth <= 1 ){
+      return colors[d.data.name];
+    } else {
+      var sequenceArray = d.ancestors().reverse();
+      sequenceArray.shift();
+      // var class_color_index = sequenceArray[].name;
+      // var class_color_index = sequenceArray[0].data.name;
+      return shadeColor2(colors[sequenceArray[0].data.name], d.depth*0.125 );
+      // return colors[class_color_index];
+    }
+}
+
+
 
 // Total size of all segments; we set this later, after loading the data.
 var totalSize = 0; 
@@ -63,7 +91,7 @@ function createVisualization(json) {
   // For efficiency, filter nodes to keep only those large enough to see.
   var nodes = partition(root).descendants()
       .filter(function(d) {
-          return (d.x1 - d.x0 > 0.005); // 0.005 radians = 0.29 degrees
+          return (d.x1 - d.x0 > 0.000001); // 0.005 radians = 0.29 degrees
       });
 
   var path = vis.data([json]).selectAll("path")
@@ -72,7 +100,8 @@ function createVisualization(json) {
       .attr("display", function(d) { return d.depth ? null : "none"; })
       .attr("d", arc)
       .attr("fill-rule", "evenodd")
-      .style("fill", function(d) { while (d.depth > 1) d = d.parent; return colors[d.data.name]; })
+      .style("fill", function(d) { return getcolor(d); })
+      //.style("fill", function(d) { while (d.depth > 1) d = d.parent; return colors[d.data.name]; })
       .style("opacity", 1)
       .on("mouseover", mouseover); 
 
@@ -87,19 +116,22 @@ function createVisualization(json) {
 function mouseover(d) {
 
   var percentage = (100 * d.value / totalSize).toPrecision(3);
-  var percentageString = percentage + "%";
+  var percentageString = percentage + "%" ;
+
   if (percentage < 0.1) {
     percentageString = "< 0.1%";
   }
 
+
+  var sequenceArray = d.ancestors().reverse();
+  sequenceArray.shift(); // remove root node from the array
   d3.select("#percentage")
       .text(percentageString);
 
   d3.select("#explanation")
       .style("visibility", "");
 
-  var sequenceArray = d.ancestors().reverse();
-  sequenceArray.shift(); // remove root node from the array
+
   updateBreadcrumbs(sequenceArray, percentageString);
 
   // Fade all the segments.
@@ -184,7 +216,8 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
   entering.append("svg:polygon")
       .attr("points", breadcrumbPoints)
-      .style("fill", d => { while (d.depth > 1) d = d.parent; return colors[d.data.name]; });
+      .style("fill", function(d) { return getcolor(d) ; });
+      //style("fill", d => { while (d.depth > 1) d = d.parent; return colors[d.data.name]; });
 
 
   entering.append("svg:text")
@@ -221,47 +254,6 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
 }
 
-function drawLegend() {
-
-  // Dimensions of legend item: width, height, spacing, radius of rounded rect.
-  var li = {
-    w: 75, h: 30, s: 3, r: 3
-  };
-
-  var legend = d3.select("#legend").append("svg:svg")
-      .attr("width", li.w)
-      .attr("height", d3.keys(colors).length * (li.h + li.s));
-
-  var g = legend.selectAll("g")
-      .data(d3.entries(colors))
-      .enter().append("svg:g")
-      .attr("transform", function(d, i) {
-              return "translate(0," + i * (li.h + li.s) + ")";
-           });
-
-  g.append("svg:rect")
-      .attr("rx", li.r)
-      .attr("ry", li.r)
-      .attr("width", li.w)
-      .attr("height", li.h)
-      .style("fill", function(d) { return d.value; });
-
-  g.append("svg:text")
-      .attr("x", li.w / 2)
-      .attr("y", li.h / 2)
-      .attr("dy", "0.35em")
-      .attr("text-anchor", "middle")
-      .text(function(d) { return d.key; });
-}
-
-function toggleLegend() {
-  var legend = d3.select("#legend");
-  if (legend.style("visibility") == "hidden") {
-    legend.style("visibility", "");
-  } else {
-    legend.style("visibility", "hidden");
-  }
-}
 
 
 
@@ -274,6 +266,8 @@ function buildHierarchy(csv) {
   for (var i = 0; i < csv.length; i++) {
     var sequence = csv[i][0];
     var size = +csv[i][1];
+    var displayvalue = +csv[i][2];
+    var alarmstatus = +csv[i][3];
     if (isNaN(size)) { // e.g. if this is a header row
       continue;
     }
@@ -301,7 +295,7 @@ function buildHierarchy(csv) {
  	currentNode = childNode;
       } else {
  	// Reached the end of the sequence; create a leaf node.
- 	childNode = {"name": nodeName, "size": size};
+ 	childNode = {"name": nodeName, "size": size, "displayvalue": displayvalue, "alarmstatus": alarmstatus};
  	children.push(childNode);
       }
     }
