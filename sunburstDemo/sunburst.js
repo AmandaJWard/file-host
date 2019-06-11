@@ -1,11 +1,11 @@
 // Dimensions of sunburst.
-var width = 750;
+var width = 600;
 var height = 500;
 var radius = Math.min(width, height) / 2;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = {
-  w: 50, h: 20, s: 2, t: 10
+  w: 40, h: 15, s: 3, t: 10
 };
 
 
@@ -117,7 +117,7 @@ function createVisualization(json) {
 function mouseover(d) {
 
   var percentage = (100 * d.value / totalSize).toPrecision(3);
-  var percentageString = percentage + "%" ;
+  var percentageString =  percentage +  "%" ;
 
   if (percentage < 0.1) {
     percentageString = "< 0.1%";
@@ -127,7 +127,7 @@ function mouseover(d) {
   var sequenceArray = d.ancestors().reverse();
   sequenceArray.shift(); // remove root node from the array
   d3.select("#percentage")
-      .text(percentageString);
+      .text("Selected KPI Contribution: " + percentageString);
 
   d3.select("#explanation")
       .style("visibility", "");
@@ -186,7 +186,7 @@ var widths = [];
 // Generate a string that describes the points of a breadcrumb polygon.
 function breadcrumbPoints(d, i) {
   var points = [];
-  widths[i] = d.data.name.length*8;
+  widths[i] = d.data.name.length*7;
   if (widths[i] <75) {
     widths[i] = b.w;
   }

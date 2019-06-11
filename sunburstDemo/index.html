@@ -7,70 +7,112 @@
     <link rel="stylesheet" type="text/css" href="sunburst.css"/>
   </head>
   <body>
-    <div id="main">
+    <div id = "viscontainer">
           <div id="sequence"></div> 
           <div id="chart">
             <div id="explanation" style="visibility: visible;">
+              <!-- This is statically set for now, in final this should be data driven by the filter selections. -->
+              <span id = "qoe"> QOE: 98% </span><br/>
+              <span id = "update">Update: 1 min ago<br/><br/></span>
               <span id="percentage"></span><br/>
-              Quality of Experience
+               </br>
             </div>
-          </div>
-
-     </div>
-     <div id="filters">
-      
-      <label for="subscriberType">Subscriber Type</label>
-      <select id = "subscriberType">
-        <option value="groups">VIP Groups</option>
-        <option value="single" selected="selected">Single Subscriber</option> 
-      </select>
-      <p id="selected-dropdown-subscriberType"></p>
-      
-      <label for="roamingCat">Roaming Category</label>
-      <select id = "roamingCat">
-        <option value="All" selected="selected">All</option>
-        <option value="Inbound">Inbound</option>
-        <option value="Outbound">Outbound</option> 
-        <option value="Home">Home</option> 
-      </select>
-      <p id="selected-dropdown-roamingCat"></p>
-
-      <label for="Location">Location</label>
-      <select id = "location">
-        <option value="city">City</option>
-        <option value="region" selected="selected">Region</option> 
-        <option value="country">Country</option> 
-      </select>
-      <p id="selected-dropdown-location"></p>      
-      
-      <label for="Location">Location</label>
-      <select id = "location">
-        <option value="city">City</option>
-        <option value="region" selected="selected">Region</option> 
-        <option value="country">Country</option> 
-      </select>
-      <p id="selected-dropdown-location"></p> 
-
-      
-
-
-
-
-    </div>
-
-    <div class="card">
-      <div class="card-body">
-        <h4 class="card-title"></h4>
-        <p class="card-text"></p>
+          </div>          
       </div>
-    </div>
+      <div id="sidebar">
+        <form>
+            <select id = "location">   
+            <label for="location">Location</label>
+              <option value="All" selected="selected">All Locations</option>
+              <option value="City">City</option>
+              <option value="Region">Region</option>
+              <option value="Country">Country</option>
+            </select>
+            <p id="selected-dropdown-location"></p>
     
-    <div class="footer">
-      <div id = "table"></div>
-    </div>
+            <select id = "interval">
+              <label for="interval">Time Interval</label>
+              <option value="All" selected="selected">All</option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+              <option value=""></option>
+            </select>
+              <p id="selected-dropdown-interval"></p>
+    
+            <select id = "roaming">
+              <label for="roaming">Roaming Category</label>
+              <label for="interval">Time Interval</label>
+              <option value="All" selected="selected">All</option>
+              <option value="1">1 min</option>
+              <option value="5">5 min</option>
+              <option value="15">15 min</option>
+              <option value="60">1 hour</option>
+              <option value="day">1 day</option>
+            </select>
+              <p id="selected-dropdown-roaming"></p>
+              
+            <select id = "subplan">
+              <label for="subplan">Subscription Plan</label>
+              <option value="All" selected="selected">All Plans</option>
+              <option value="SubscriptionPlanA">Subscription Plan A</option>
+              <option value="SubscriptionPlanB">Subscription Plan B</option>
+            </select>
+              <p id="selected-dropdown-subplan"></p>
+    
+            <select id = "subtype"> 
+              <label for="Subscription Type">Subscription Type</label>
+              <option value="All" selected="selected">Payment Methods</option>
+              <option value="Pre-paid">Pre-paid</option>
+              <option value="Post-paid">Post-paid</option>
+            </select>
+              <p id="selected-dropdown-subtype"></p>
+    
+            <select id = "devicetype">
+              <label for="devicetype">Device Type</label>
+              <option value="All" selected="selected">All Device Types</option>
+              <option value="Phone">Phone</option>
+              <option value="Tablet">Tablet</option>
+              <option value="Other">Other</option>
+            </select>
+              <p id="selected-dropdown-devicetype"></p>
+    
+            <select id = "devicemanufacturer"> 
+              <label for="Manufacturer">Manufacturer</label>
+              <option value="All" selected="selected">All Manufacturors</option>
+              <option value="Samsung">Samsung</option>
+              <option value="Google">Google</option>
+              <option value="Apple">Apple</option>
+            </select>
+              <p id="selected-dropdown-devicemanufacturer"></p>
+    
+            <select id = "devicemodel"> 
+              <label for="devicemodel">Model</label>
+              <option value="All" selected="selected">All Models</option>
+              <option value="iPhone6">iPhone 6</option>
+              <option value="iPhone7">iPhone 7</option>
+              <option value="iPhone25">iPhone 25</option>
+              <option value="GooglePixel">Google Pixel</option>
+            </select>
+              <p id="selected-dropdown-devicemodel"></p>
+    
+            <select id = "devicecapability">
+              <option value="All" selected="selected">All</option>
+              <option value="Android">Android</option>
+              <option value="iOS">iOS</option>
+              <option value="256MBRAM">256 MB RAM</option>
+              <option value="1GBRAM">1 GB RAM</option>
+            </select>
+              <p id="selected-dropdown-devicecapability"></p>
+            </form>
+        </div>
+        <div id = "tablecontainer"></div>
+          </div>
+     </div>
 
     <script type="text/javascript" src="sunburst.js"></script>
-    <script type="text/javascript" src="filters.js"></script>
     <script type="text/javascript" src="buildTable.js"></script>
 
 
