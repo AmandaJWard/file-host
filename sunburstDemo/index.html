@@ -18,15 +18,43 @@
 
      </div>
      <div id="filters">
-        <label for="device">Device</label>
-
-      <select id = "Subscriber Type">
+      
+      <label for="subscriberType">Subscriber Type</label>
+      <select id = "subscriberType">
         <option value="groups">VIP Groups</option>
         <option value="single" selected="selected">Single Subscriber</option> 
       </select>
-      <p id="selected-dropdown"></p>
+      <p id="selected-dropdown-subscriberType"></p>
       
-      <p id="selected-dropdown"></p>
+      <label for="roamingCat">Roaming Category</label>
+      <select id = "roamingCat">
+        <option value="All" selected="selected">All</option>
+        <option value="Inbound">Inbound</option>
+        <option value="Outbound">Outbound</option> 
+        <option value="Home">Home</option> 
+      </select>
+      <p id="selected-dropdown-roamingCat"></p>
+
+      <label for="Location">Location</label>
+      <select id = "location">
+        <option value="city">City</option>
+        <option value="region" selected="selected">Region</option> 
+        <option value="country">Country</option> 
+      </select>
+      <p id="selected-dropdown-location"></p>      
+      
+      <label for="Location">Location</label>
+      <select id = "location">
+        <option value="city">City</option>
+        <option value="region" selected="selected">Region</option> 
+        <option value="country">Country</option> 
+      </select>
+      <p id="selected-dropdown-location"></p> 
+
+      
+
+
+
 
     </div>
 
@@ -38,15 +66,12 @@
     </div>
     
     <div class="footer">
-        <!-- <h2>Date Slider: <span id="slider4text">0</span></h2>
-        <div id="slider4"></div>
-        <code>d3.slider().on("slide", function(evt, value) {<br>
-          &nbsp;&nbsp;d3.select('#slider3text').text(value);<br>
-          })</code> -->
+      <div id = "table"></div>
     </div>
 
     <script type="text/javascript" src="sunburst.js"></script>
     <script type="text/javascript" src="filters.js"></script>
+    <script type="text/javascript" src="buildTable.js"></script>
 
 
   </body>
